@@ -39,7 +39,7 @@ The directory is organized as
 | Leaf directory / file   | Content                                                      |
 | ----------------------- | ------------------------------------------------------------ |
 | croissant_metadata.json | Croissant metadata record                                    |
-| final_data.csv          | The metadata for all **16,147** data products.               |
+| **final_data.csv**      | The metadata for all **16,147** data products. (**The final comprehensive dataset of DaDaDa**) |
 | merge_data.py           | Combine all the information of data products from the preprocessed `preprocess_data` directory together. |
 | preprocess_data/        | Store the preprocessed data after integrating the raw data.  |
 | preprocess_raw.py       | Process the data in  `raw_data` into a unified format and store it in the `preprocess_data` folder. |
