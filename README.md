@@ -136,14 +136,11 @@ python fine_tune.py --model 'model_name'  --mode 'train'
 python fine_tune.py --model 'model_name' --mode 'test'
 ```
 
-The model_name should be one of the three: "mbert", "xlm-r-base", "xlm-r-large".  We store our best fine-tuned model in [best_model](./DaDaDa/experiment/classification/best_model).
+The model_name should be one of the three: "mbert", "xlm-r-base", "xlm-r-large".  We store our best fine-tuned model in [best_model](./DaDaDa/experiment/classification). （The best fine_tuned pre-trained model can be downloaded from here.)
 
 ### data product reterival
 
-DaDaDa makes it possible to create a vertical search
-engine for data products collected from major open-access data marketplaces around the world. To
-demonstrate how DaDaDa can streamline the data search process, we use it to create a search engine
-based on Elasticsearch.
+DaDaDa makes it possible to create a vertical search engine for data products collected from major open-access data marketplaces around the world. To demonstrate how DaDaDa can streamline the data search process, we use it to create a search engine based on Elasticsearch.
 
 The following image is a screenshot of the data product search engine.
 
@@ -157,9 +154,11 @@ and evaluate pricing performance.
 
 #### How to use
 
-We first use [get_embedding.py](./DaDaDa/experiment/pricing/embedding) to extract embeddings from the fine-tuned XLM-R-Large model, capturing both the intermediate and final layer word embeddings, resulting in two files [xlm-r-large_12_embeddings.csv](./DaDaDa/experiment/pricing/embedding) and [xlm-r-large_24_embeddings.csv](./DaDaDa/experiment/pricing/embedding). Then we use [pca.py](./DaDaDa/experiment/pricing/embedding) to determine the appropriate dimensionality reduction. Finally, we process the data in [final_data.csv](./DaDaDa/data) using [preprocess.py](./DaDaDa/experiment/pricing) and merge it with the dimensionally reduced embeddings, getting two price files  [price_12.csv](./DaDaDa/experiment/pricing) and [price_24.csv](./DaDaDa/experiment/pricing).
+We first use [get_embedding.py](./DaDaDa/experiment/pricing/embedding) to extract embeddings from the fine-tuned XLM-R-Large model, capturing both the intermediate and final layer word embeddings, resulting in two files [xlm-r-large_12_embeddings.csv](./DaDaDa/experiment/pricing/embedding) and [xlm-r-large_24_embeddings.csv](./DaDaDa/experiment/pricing/embedding). （The intermediate layer (12th layer) word embedding and the last layer (24 layer) word embedding can be downloaded from [here](https://drive.google.com/file/d/1d4jEQxisXAH_4YfT5iQb6lhC34i8YkDG/view?usp=sharing).）Then we use [pca.py](./DaDaDa/experiment/pricing/embedding) to determine the appropriate dimensionality reduction. Finally, we process the data in [final_data.csv](./DaDaDa/data) using [preprocess.py](./DaDaDa/experiment/pricing) and merge it with the dimensionally reduced embeddings, getting two price files  [price_12.csv](./DaDaDa/experiment/pricing) and [price_24.csv](./DaDaDa/experiment/pricing).
 
-The code of training pricing model is store in [price](./DaDaDa/experiment/pricing/price_model),  we use [find_best_hp.py](./DaDaDa/experiment/pricing/price_model) to find the best hyperparameter for different regression models, and store the best model in [saved_models_12](./DaDaDa/experiment/pricing/price_model) (for intermediate layer) and  [saved_models_24](./DaDaDa/experiment/pricing/price_model) (for last layer). 
+The code of training pricing model is store in [price](./DaDaDa/experiment/pricing/price_model),  we use [find_best_hp.py](./DaDaDa/experiment/pricing/price_model) to find the best hyperparameter for different regression models, and store the best model in [saved_models_12](./DaDaDa/experiment/pricing/price) (for intermediate layer) and  [saved_models_24](./DaDaDa/experiment/pricing/price) (for last layer). （
+The best regression model for data product pricing can be downloaded from [here](https://drive.google.com/file/d/1tSyhkf92Yy5L31I4IMIlpUyHCEXfCCnM/view?usp=sharing).
+）  
 
 You can use in the following ways:
 
