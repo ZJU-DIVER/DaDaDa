@@ -1,0 +1,31 @@
+#,ZONEID,ZONENAME,CATEGORY,COUNTRY,CITY,NUMBER_SHOPS,NUMBER_VISITORS,GLA,GLOBAL_AREA,ADDRESS,ESTABLIS_Y,OWNER,MANAGER,OWNER_2,OWNER_3,WEBSITE,X,Y
+1,AU 01105 001 00,Logan Hyperdome Shopping Centre,Shopping Mall,Australia,Loganholme,206,10 millions,,H,[redacted],1989,Queensland Investment Corporation,,,,hyperdomeshopping.qicgre.com,153.170684,-27.658805
+2,AU 01363 001 00,Pacific Werribee,Shopping Mall,Australia,Werribee,322,10 millions,,H,[redacted],1985,Queensland Investment Corporation,,,,pacificwerribee.com.au,144.679758,-37.875128
+3,AU 01370 002 00,Westfield Tuggerah,Shopping Mall,Australia,Tuggerah,244,"10,1 millions",,G,[redacted],1995,Scentre Group,Scentre Group,,,,151.412086,-33.307943
+4,AU 00236 001 00,Rhodes Waterside,Shopping Mall,Australia,Rhodes NSW,131,"10,3 millions",E,F,[redacted],2004,Mirvac,Mirvac,,,rhodeswaterside.com.au,151.085284,-33.834872
+5,AU 00238 002 00,Westfield Carousel,Shopping Mall,Australia,Cannington,317,"10,6 millions",H,H,[redacted],1972,Scentre Group,Scentre Group,,,,115.937573,-32.018657
+6,AU 00161 001 00,Watergardens Town Centre,Shopping Mall,Australia,Taylors Lakes,236,"10,7 millions",H,H,[redacted],1997,Queensland Investment Corporation,Queensland Investment Corporation,,,watergardens.qicgre.com,144.77661,-37.699151
+7,AU 00103 001 00,Westfield Belconnen,Shopping Mall,Australia,Belconnen,287,"11,1 millions",,G,[redacted],1978,Scentre Group,Scentre Group,,,,149.065177,-35.237944
+8,AU 01183 001 00,Westfield Tea Tree Plaza,Shopping Mall,Australia,Modbury,194,"11,2 millions",,G,[redacted],,AMP Capital,,Scentre Group,,,138.691895,-34.830688
+9,AU 00773 002 00,Sunshine Plaza,Shopping Mall,Australia,Maroochydore,345,"11,3 millions",,H,[redacted],1994,APPF Retail,Lendlease,APPF Retail GPT Group,,sunshineplaza.com,153.088156,-26.655027
+10,AU 01335 001 00,Chatswood Chase,Shopping Mall,Australia,Roseville,211,"11,3 millions",,F,[redacted],1983,Vicinity Centres,Vicinity Centres,,,,151.186078,-33.794096
+11,AU 00257 001 00,Westfield Fountain Gate,Shopping Mall,Australia,Narre Warren,465,"11,9 millions",,H,[redacted],1970,Scentre Group,Scentre Group,,,,145.303834,-38.017982
+12,AU 00290 005 00,QueensPlaza,Shopping Mall,Australia,Brisbane,39,"11,9 millions",,E,[redacted],2005,Vicinity Centres,Colonial First State Global Asset Management,,,queensplaza.com.au,153.026098,-27.468243
+13,AU 00596 001 00,Indooroopilly Shopping Centre,Shopping Mall,Australia,Brisbane,360,12 millions,,H,[redacted],1970,AMP,AMP,,,indooroopillyshopping.com.au,152.972768,-27.499315
+14,AU 00232 001 00,Macarthur Square,Shopping Mall,Australia,Campbelltown,331,12 millions,,G,[redacted],1979,GPT Group,Lend Lease,Australian Prime Property Fund,,,150.797922,-34.075468
+15,AU 00778 001 00,Eastland Shopping Centre,Shopping Mall,Australia,Ringwood,460,12 millions,,H,[redacted],1967,Queensland Investment Corporation,Queensland Investment Corporation,,,eastland.com.au,145.229081,-37.813202
+16,AU 00451 001 00,Bayside Shopping Centre,Shopping Mall,Australia,Frankston,210,"12,1 millions",,G,[redacted],1972,Vicinity Group,Vicinity Group,,,baysidesc.com.au,145.124059,-38.141643
+17,AU 00126 001 00,Westfield Mount Druitt,Shopping Mall,Australia,Mount Druitt,202,"12,2 millions",,F,[redacted],1992,Scentre Group,Scentre Group,,,,150.818853,-33.766847
+18,AU 00195 001 00,Westfield Burwood,Shopping Mall,Australia,Burwood,236,"12,2 millions",,F,[redacted],1966,Scentre Group,Scentre Group,Perron Group,,,151.105886,-33.874623
+19,AU 00365 001 00,Northland Shopping Centre,Shopping Mall,Australia,Preston,263,"12,2 millions",,G,[redacted],1966,Vicinity Group,Vicinity Group,GPT Group,,https://www.northlandsc.com.au/,145.0299,-37.738557
+20,AU 00488 001 00,Erina Fair,Shopping Mall,Australia,Gosford,310,"12,5 millions",,H,[redacted],1987,Lendlease,Lendlease,,,www.erinafair.com.au,151.393123,-33.437318
+21,AU 01245 001 00,Westfield Garden City,Shopping Mall,Australia,Mt Gravatt,470,"12,5 millions",,H,[redacted],1971,Scentre Group,Scentre Group,,,,153.082067,-27.562687
+22,AU 01155 005 00,Midland Gate,Shopping Mall,Australia,Midland,199,"12,6 millions",,F,[redacted],1980,Vicinity Centres,Vicinity Centres,,,midlandgatesc.com.au,116.010617,-31.889968
+23,AU 00250 001 00,Westfield Carindale,Shopping Mall,Australia,Carindale,450,13 millions,,H,[redacted],1979,Carindale Property Trust,Scentre Group,Australian Prime Property Fund,,,153.101742,-27.502732
+24,AU 00899 001 00,Casuarina Square,Shopping Mall,Australia,Casuarina,200,13 millions,,F,[redacted],1974,GPT Group,GPT Group,,,https://www.casuarinasquare.com.au/,130.881769,-12.374521
+25,AU 00796 001 00,Westfield Booragoon,Shopping Mall,Australia,Booragoon,174,13 millions,,F,[redacted],1972,Scentre Group,AMP Capital,Dexus,,,115.835051,-32.034151
+26,AU 01153 002 00,Westfield Miranda,Shopping Mall,Australia,Miranda,438,"13,1 millions",,H,[redacted],1964,Scentre Group,Scentre Group,Dexus,,www.paradisecentre.net.au,151.101353,-34.034723
+27,AU 00684 002 00,Charlestown Square,Shopping Mall,Australia,Charlestown,185,"13,2 millions",,G,[redacted],1979,GPT Group,GPT Group,,,,151.693762,-32.96369
+28,AU 01162 001 00,Broadway Shopping Centre,Shopping Mall,Australia,Broadway,161,"13,4 millions",,E,[redacted],,JLL,,NewRiverRetail,,broadwayshoppingcentre.com,151.193729,-33.883677
+29,AU 00713 001 00,Westfield Liverpool,Shopping Mall,Australia,Liverpool,340,"14,2 millions",G,G,[redacted],1971,Scentre Group,Scentre Group,AMP Capital,,,150.923823,-33.918975
+30,AU 00758 003 00,Westfield Doncaster,Shopping Mall,Australia,Melbourne,400,"14,4 millions",,H,[redacted],1969,Scentre Group,Scentre Group,ISPT,Asia Property Fund,,145.126375,-37.784122

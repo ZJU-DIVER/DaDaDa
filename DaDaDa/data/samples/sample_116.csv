@@ -1,0 +1,11 @@
+#,FIRST_NAME,LAST_NAME,ADDRESS1,ADDRESS2,CITY,STATE,ZIP5,ZIP4,EMAIL,PHONE,AGE,GENDER,Likelyhood to ask doctor about advertised meds,Likelyhood to look for medical info over the web,Likelyhood to prefer Brand Name Medicines,Likelyhood to buy Prescriptions through the Mail
+1,[redacted],[redacted],[redacted],[redacted],ANCHORAGE,AK,99501,1128,[redacted],[redacted],[redacted],[redacted],6,3,10,1
+2,[redacted],[redacted],[redacted],[redacted],ANCHORAGE,AK,99501,1135,[redacted],[redacted],[redacted],[redacted],3,1,10,2
+3,[redacted],[redacted],[redacted],[redacted],ANCHORAGE,AK,99501,1154,[redacted],[redacted],[redacted],[redacted],2,1,9,1
+4,[redacted],[redacted],[redacted],[redacted],ANCHORAGE,AK,99501,1215,[redacted],[redacted],[redacted],[redacted],6,3,8,1
+5,[redacted],[redacted],[redacted],[redacted],ANCHORAGE,AK,99501,1217,[redacted],[redacted],[redacted],[redacted],4,3,10,1
+6,[redacted],[redacted],[redacted],[redacted],ANCHORAGE,AK,99501,1231,[redacted],[redacted],[redacted],[redacted],5,1,8,6
+7,[redacted],[redacted],[redacted],[redacted],ANCHORAGE,AK,99501,1237,[redacted],[redacted],[redacted],[redacted],5,1,10,1
+8,[redacted],[redacted],[redacted],[redacted],ANCHORAGE,AK,99501,1305,[redacted],[redacted],[redacted],[redacted],4,1,10,2
+9,[redacted],[redacted],[redacted],[redacted],ANCHORAGE,AK,99501,2119,[redacted],[redacted],[redacted],[redacted],1,1,6,3
+10,[redacted],[redacted],[redacted],[redacted],ANCHORAGE,AK,99501,3201,[redacted],[redacted],[redacted],[redacted],8,1,10,3

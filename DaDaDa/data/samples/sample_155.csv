@@ -1,0 +1,101 @@
+#,Company,Contact Title,First Name,Last Name,Address,City,State,Zip,Z4,Phone Number,Primary SIC Code,Website,Wireless Flag,Number of Employees,Sales Volume,Contact Title description,Number of Employees description,Primary SIC Code description,Sales Volume description
+1,PREMIER FAMILY DENTAL,99,[redacted],[redacted],[redacted],WESTLAKE,OH,44145,4366,[redacted],80210202,www.premierfamilydentaloh.com,Y,A,A,Other,1 to 4,Dentists' office,Less than $500000
+2,CLEVELAND BUILDING RESTORATION,99,[redacted],[redacted],[redacted],AURORA,OH,44202,8549,[redacted],17990000,www.clerestoration.com,Y,A,A,Other,1 to 4,Special Trade Contractors Nec,Less than $500000
+3,GREATHOUSE EXPRESS INC,2,[redacted],[redacted],[redacted],PASADENA,CA,91103,2617,[redacted],42120000,,Y,A,A,Manager,1 to 4,Local Trucking Without Storage,Less than $500000
+4,DONNYLAH CONTRACTING LLC,11,[redacted],[redacted],[redacted],BRONX,NY,10473,1152,[redacted],73899999,,Y,A,A,Principal,1 to 4,Business Services nec,Less than $500000
+5,RINAS CLOSET REVIVAL,11,[redacted],[redacted],[redacted],ROYAL OAK,MI,48067,1833,[redacted],59320000,,Y,A,A,Principal,1 to 4,Used Merchandise Stores,Less than $500000
+6,HUBERT LITTLE TRUCKER LLC,99,[redacted],[redacted],[redacted],MONROEVILLE,AL,36460,2449,[redacted],42120301,,Y,A,A,Other,1 to 4,Lumber (log) trucking local,Less than $500000
+7,PUSHING PINK TO ERADICATE BREA,3,[redacted],[redacted],[redacted],YULEE,FL,32097,3478,[redacted],73899923,,Y,A,A,President,1 to 4,Fund raising organizations,Less than $500000
+8,WARREN DANGELO,11,[redacted],[redacted],[redacted],POMPANO BEACH,FL,33076,1757,[redacted],73899999,,Y,A,A,Principal,1 to 4,Business Services nec,Less than $500000
+9,STAR CARS LEASING LLC,1,[redacted],[redacted],[redacted],AUGUSTA,GA,30906,4638,[redacted],87420000,,Y,A,A,Owner,1 to 4,Management Consulting Services,Less than $500000
+10,JUST BE THERAPY AND HEALING,11,[redacted],[redacted],[redacted],SAN FRANCISCO,CA,94107,4407,[redacted],58130103,,Y,A,A,Principal,1 to 4,Cocktail lounge,Less than $500000
+11,EUGENE PHOTO BOOTH,1,[redacted],[redacted],[redacted],EUGENE,OR,97404,2394,[redacted],72219903,www.eugenephotobooth.com,Y,A,A,Owner,1 to 4,Photographer still or video,Less than $500000
+12,C&G HOMES LLC,11,[redacted],[redacted],[redacted],WAUCHULA,FL,33873,37,[redacted],15210000,,Y,A,A,Principal,1 to 4,Single-family Housing Construction,Less than $500000
+13,DISCOUNT MEDICAL SUPPLY,1,[redacted],[redacted],[redacted],SEATTLE,WA,98198,5747,[redacted],59990900,www.discountmedicaltacoma.net,Y,A,A,Owner,1 to 4,Medical apparatus and supplies,Less than $500000
+14,MAID NEAR ME LLC,99,[redacted],[redacted],[redacted],MADISON,WI,53716,2953,[redacted],73499903,,Y,A,A,Other,1 to 4,Maid services contract or fee basis,Less than $500000
+15,KINARD HEATING & AIR CONDITION,11,[redacted],[redacted],[redacted],JACKSONVILLE,FL,32244,8518,[redacted],17110405,,Y,A,A,Principal,1 to 4,Warm air heating and air conditioning contractor,Less than $500000
+16,RUSTIC FLAIR PHOTOGRAPHY LLC,1,[redacted],[redacted],[redacted],PROVENCAL,LA,71468,6128,[redacted],72219903,,Y,A,A,Owner,1 to 4,Photographer still or video,Less than $500000
+17,4040 FINANCIAL LLC,11,[redacted],[redacted],[redacted],MCKINNEY,TX,75072,3709,[redacted],62820000,,Y,A,A,Principal,1 to 4,Investment Advice,Less than $500000
+18,AVON,99,[redacted],[redacted],[redacted],BOYNTON BEACH,FL,33436,2844,[redacted],59639903,www.avon.com,Y,A,A,Other,1 to 4,Cosmetic sales house-to-house,Less than $500000
+19,ELBA LUBRICATION INC,17,[redacted],[redacted],[redacted],BRENTWOOD,NY,11717,3919,[redacted],51720204,www.elba-lubes.com,Y,A,A,Director,1 to 4,Lubricating oils and greases,Less than $500000
+20,ERNEST L LEPORINI,11,[redacted],[redacted],[redacted],CITRUS HEIGHTS,CA,95610,6711,[redacted],73899999,,Y,A,A,Principal,1 to 4,Business Services nec,Less than $500000
+21,WENAAS LIVING TRUST,99,[redacted],[redacted],[redacted],MINNEAPOLIS,MN,55424,1540,[redacted],67330000,,Y,A,A,Other,1 to 4,Trusts Nec,Less than $500000
+22,WAXXI TAXXI LLC,11,[redacted],[redacted],[redacted],DECATUR,GA,30034,1926,[redacted],72910000,,Y,A,A,Principal,1 to 4,Tax Return Preparation Services,Less than $500000
+23,NORTHWEST VTERINARY ENTPS PLLC,11,[redacted],[redacted],[redacted],COLUMBIA FALLS,MT,59912,3608,[redacted],7420000,,Y,A,A,Principal,1 to 4,Veterinary Services Specialties,Less than $500000
+24,ADAM KHAN FOOD INC,11,[redacted],[redacted],[redacted],NEW YORK,NY,10035,5005,[redacted],54110000,,Y,A,A,Principal,1 to 4,Grocery Stores,Less than $500000
+25,ELITE APPRAISAL,1,[redacted],[redacted],[redacted],OZARK,MO,65721,8083,[redacted],65319901,,Y,A,A,Owner,1 to 4,Appraiser real estate,Less than $500000
+26,ALL STYLE TILE LLC,2,[redacted],[redacted],[redacted],SARASOTA,FL,34232,2462,[redacted],17439904,,Y,A,A,Manager,1 to 4,Tile installation ceramic,Less than $500000
+27,TARGET 2017 JUNE BOARD OF,99,[redacted],[redacted],[redacted],MINNEAPOLIS,MN,55404,2595,[redacted],53119901,,Y,A,A,Other,1 to 4,Department stores discount,Less than $500000
+28,MAIN AUTO WASH LLC,99,[redacted],[redacted],[redacted],FREWSBURG,NY,14738,9799,[redacted],75429904,,Y,A,A,Other,1 to 4,Washing and polishing automotive,Less than $500000
+29,EDWARD SURRENA,1,[redacted],[redacted],[redacted],JAMESTOWN,NY,14701,3722,[redacted],76990000,,Y,A,A,Owner,1 to 4,Repair Services Nec,Less than $500000
+30,DNA PAIN MGT SRVCS-FMILY NP PC,11,[redacted],[redacted],[redacted],FLUSHING,NY,11355,4283,[redacted],80110000,,Y,A,A,Principal,1 to 4,Offices and Clinics of Medical Doctors,Less than $500000
+31,BELL FEED & FARM WELL & PUMP,1,[redacted],[redacted],[redacted],BELL,FL,32619,3925,[redacted],1910000,,Y,A,A,Owner,1 to 4,General Farms Primarily Crop,Less than $500000
+32,BOSHANSKI MICHEAL MARY T,11,[redacted],[redacted],[redacted],LAWRENCE TOWNSHIP,NJ,8648,2801,[redacted],73899999,,Y,A,A,Principal,1 to 4,Business Services nec,Less than $500000
+33,MULL AND MCMULLIN LLC,14,[redacted],[redacted],[redacted],DECATUR,GA,30030,2400,[redacted],81119901,www.themulllawoffice.com,Y,A,A,Partner,1 to 4,General practice attorney lawyer,Less than $500000
+34,COUNTRY DRY WALL & PLASTERING,99,[redacted],[redacted],[redacted],WAUPACA,WI,54981,9601,[redacted],17420101,www.pigeonprod.com,Y,A,A,Other,1 to 4,Drywall,Less than $500000
+35,SAWYERS BKKPING TAX ADVSERS LL,3,[redacted],[redacted],[redacted],ARLINGTON,TX,76013,6937,[redacted],72910000,,Y,A,A,President,1 to 4,Tax Return Preparation Services,Less than $500000
+36,MICHAEL PFEIFFER CARPENTRY,3,[redacted],[redacted],[redacted],FORT LAUDERDALE,FL,33330,2522,[redacted],17510000,,Y,A,A,President,1 to 4,Carpentry Work,Less than $500000
+37,HMS TRANSPORTATION LLC,11,[redacted],[redacted],[redacted],FARMINGTON,AR,72730,3019,[redacted],47890000,,Y,A,A,Principal,1 to 4,Transportation Services Nec,Less than $500000
+38,COLEMAN ENTERPRISES LLC,99,[redacted],[redacted],[redacted],RISING FAWN,GA,30738,4309,[redacted],73890100,,Y,A,U,Other,1 to 4,Personal service agents brokers and bureaus,Unknown
+39,DR URIEL LEVI DPM,99,[redacted],[redacted],[redacted],BROOKLYN,NY,11230,1106,[redacted],80110000,,Y,A,A,Other,1 to 4,Offices and Clinics of Medical Doctors,Less than $500000
+40,CARDIOVASCULAR ASSOCIATES,11,[redacted],[redacted],[redacted],PEARLAND,TX,77584,6414,[redacted],80110101,,Y,A,A,Principal,1 to 4,Cardiologist and cardio-vascular specialist,Less than $500000
+41,AIMAS CONSULTING GROUP LLC,11,[redacted],[redacted],[redacted],ATLANTA,GA,30328,2415,[redacted],87480000,www.aimconsulting.com,Y,A,A,Principal,1 to 4,Business Consulting Nec,Less than $500000
+42,HENRY LLC OF VIRGINIA,99,[redacted],[redacted],[redacted],VIRGINIA BEACH,VA,23451,4961,[redacted],65120100,,Y,A,A,Other,1 to 4,Commercial and industrial building operation,Less than $500000
+43,PLATINUM BOSTON SEO SERVICES,99,[redacted],[redacted],[redacted],BOSTON,MA,2116,5022,[redacted],87420300,www.seobostonservices.com,Y,A,A,Other,1 to 4,Marketing consulting services,Less than $500000
+44,HEMS DELIVERY INC,9,[redacted],[redacted],[redacted],JAMAICA,NY,11434,3603,[redacted],42129903,,Y,A,A,CEO,1 to 4,Delivery service vehicular,Less than $500000
+45,JOGI CONSTRUCTION INC,11,[redacted],[redacted],[redacted],ORLANDO,FL,32829,8103,[redacted],15210000,,Y,A,A,Principal,1 to 4,Single-family Housing Construction,Less than $500000
+46,TIM S TOWING & TRANSPORT INC,11,[redacted],[redacted],[redacted],WESLEY CHAPEL,FL,33545,3861,[redacted],47890000,,Y,A,A,Principal,1 to 4,Transportation Services Nec,Less than $500000
+47,INFOPRO LEGAL RESOURCES INC,99,[redacted],[redacted],[redacted],HASTINGS,MN,55033,3492,[redacted],73810204,www.infoprolegal.com,Y,A,A,Other,1 to 4,Private investigator,Less than $500000
+48,BRIGGS CLEAN & SHINE LLC,99,[redacted],[redacted],[redacted],HONOLULU,HI,96813,1815,[redacted],73490104,,Y,A,A,Other,1 to 4,Janitorial service contract basis,Less than $500000
+49,LABDOG CONSULTING LLC,99,[redacted],[redacted],[redacted],AUSTIN,TX,78704,6254,[redacted],87480000,www.labdogconsulting.com,Y,A,A,Other,1 to 4,Business Consulting Nec,Less than $500000
+50,FLAWLESS FADES LLC,99,[redacted],[redacted],[redacted],CHICAGO,IL,60652,2332,[redacted],72410000,,Y,A,A,Other,1 to 4,Barber Shops,Less than $500000
+51,SHADOW LAKE FARM,1,[redacted],[redacted],[redacted],BIRCHWOOD,TN,37308,5271,[redacted],79480301,,Y,A,A,Owner,1 to 4,Racehorse training,Less than $500000
+52,PINEDA S PAINTING,1,[redacted],[redacted],[redacted],HILLSBOROUGH,NC,27278,9496,[redacted],17210000,,Y,A,A,Owner,1 to 4,Painting and Paper Hanging,Less than $500000
+53,S&M SHIPPING LLC,5,[redacted],[redacted],[redacted],SEBASTIAN,FL,32958,6101,[redacted],47890000,,Y,A,A,Finance Exec,1 to 4,Transportation Services Nec,Less than $500000
+54,ERNEST L SMITH ARCHITECTURAL,99,[redacted],[redacted],[redacted],TAMPA,FL,33618,8642,[redacted],87480000,,Y,A,A,Other,1 to 4,Business Consulting Nec,Less than $500000
+55,JIA WANG,99,[redacted],[redacted],[redacted],HOUSTON,TX,77067,1159,[redacted],57190102,www.jiawangmd.com,Y,A,A,Other,1 to 4,China,Less than $500000
+56,ROYAL SPA & BOUTIQUE,11,[redacted],[redacted],[redacted],ODESSA,TX,79761,4265,[redacted],56210101,,Y,A,A,Principal,1 to 4,Boutiques,Less than $500000
+57,COBBLESTONE KENNELS,11,[redacted],[redacted],[redacted],SAN DIEGO,CA,92130,3187,[redacted],7520202,,Y,A,A,Principal,1 to 4,Boarding services kennels,Less than $500000
+58,ROBERTO UGARTE,11,[redacted],[redacted],[redacted],FORT WORTH,TX,76133,8151,[redacted],73899999,,Y,A,A,Principal,1 to 4,Business Services nec,Less than $500000
+59,PACIFIC SHORES DEVELOPMENT,2,[redacted],[redacted],[redacted],OCEANSIDE,CA,92058,7437,[redacted],15210000,www.bcre.com,Y,A,A,Manager,1 to 4,Single-family Housing Construction,Less than $500000
+60,AUTOLAND INC,2,[redacted],[redacted],[redacted],PLATTSBURGH,NY,12901,1235,[redacted],55219902,www.autoland.com,Y,A,U,Manager,1 to 4,Automobiles used cars only,Unknown
+61,FLINT RYKER COMMERCIAL INC,3,[redacted],[redacted],[redacted],LOS ANGELES,CA,90064,2333,[redacted],65310104,,Y,A,A,President,1 to 4,Real estate agent commercial,Less than $500000
+62,JL ARNOLD DESIGN LLC,1,[redacted],[redacted],[redacted],ASHBURN,VA,20148,5310,[redacted],7820203,,Y,A,A,Owner,1 to 4,Lawn care services,Less than $500000
+63,KSM CONSULTING,11,[redacted],[redacted],[redacted],HINSDALE,IL,60521,3243,[redacted],87480000,,Y,A,A,Principal,1 to 4,Business Consulting Nec,Less than $500000
+64,S EMPORIUM THRIFT STORE,11,[redacted],[redacted],[redacted],HIALEAH,FL,33016,2520,[redacted],59990000,,Y,A,A,Principal,1 to 4,Miscellaneous Retail Stores Nec,Less than $500000
+65,VECTRONIX SYSTEMS INC,99,[redacted],[redacted],[redacted],BOCA RATON,FL,33427,2877,[redacted],50390102,www.safran-vectronix.com,Y,A,A,Other,1 to 4,Mobile homes,Less than $500000
+66,COMMON SNSE CARE SOLUTIONS LLC,99,[redacted],[redacted],[redacted],ALIQUIPPA,PA,15001,4806,[redacted],87480000,,Y,A,A,Other,1 to 4,Business Consulting Nec,Less than $500000
+67,SKINCARE BY MICHELLE LLC,11,[redacted],[redacted],[redacted],LONGMONT,CO,80504,9729,[redacted],72310103,,Y,A,A,Principal,1 to 4,Facial salons,Less than $500000
+68,JGT CUSTOM HOMES INC,3,[redacted],[redacted],[redacted],ABILENE,TX,79608,6093,[redacted],15210000,,Y,A,A,President,1 to 4,Single-family Housing Construction,Less than $500000
+69,GRUPO C-PARK LLC,99,[redacted],[redacted],[redacted],MIAMI,FL,33125,2607,[redacted],73899999,,Y,A,A,Other,1 to 4,Business Services nec,Less than $500000
+70,GRANTS PASS POOL SERVICE & SLS,1,[redacted],[redacted],[redacted],GRANTS PASS,OR,97526,9705,[redacted],73899948,www.grantspassparadisepools.com,Y,A,A,Owner,1 to 4,Swimming pool and hot tub service and maintenance,Less than $500000
+71,BODY GLOW TANS,99,[redacted],[redacted],[redacted],LUBBOCK,TX,79424,2509,[redacted],72990105,,Y,A,A,Other,1 to 4,Tanning salon,Less than $500000
+72,A & T HAMMOND INC,5,[redacted],[redacted],[redacted],MONTEREY,CA,93940,6639,[redacted],51419901,,Y,A,A,Finance Exec,1 to 4,Food brokers,Less than $500000
+73,OBERSTUTZ ORGELBAU LLC,1,[redacted],[redacted],[redacted],SARASOTA,FL,34237,5111,[redacted],73891800,www.pipeorganfacades.com,Y,A,A,Owner,1 to 4,Design services,Less than $500000
+74,CAMBRIAS RESIDENTIAL SVCS INC,99,[redacted],[redacted],[redacted],RIVERVIEW,FL,33578,8636,[redacted],83619903,,Y,A,A,Other,1 to 4,Halfway group home persons with social or personal problems,Less than $500000
+75,RC HOME REMODEL & REPAIR,99,[redacted],[redacted],[redacted],FAYETTEVILLE,AR,72703,9065,[redacted],15210101,,Y,A,A,Other,1 to 4,General remodeling single-family houses,Less than $500000
+76,DIRECT 1 MEDIA LLC,99,[redacted],[redacted],[redacted],WHITEFISH,MT,59937,2402,[redacted],73710300,,Y,A,A,Other,1 to 4,Computer software development and applications,Less than $500000
+77,A & L BAKERIES LLC,99,[redacted],[redacted],[redacted],SCOTTSBLUFF,NE,69361,3312,[redacted],54610000,,Y,A,A,Other,1 to 4,Retail Bakeries,Less than $500000
+78,LEHMAN FARM,1,[redacted],[redacted],[redacted],SPENCER,IA,51301,7473,[redacted],1910000,,Y,A,A,Owner,1 to 4,General Farms Primarily Crop,Less than $500000
+79,BURDEN CREEK DAIRY,1,[redacted],[redacted],[redacted],CHARLESTON,SC,29403,5521,[redacted],2410000,,Y,A,A,Owner,1 to 4,Dairy Farms,Less than $500000
+80,PROPERTY SOLUTION MANAGEMENT,3,[redacted],[redacted],[redacted],PLANT CITY,FL,33563,3050,[redacted],87410000,,Y,A,A,President,1 to 4,Management Services,Less than $500000
+81,KEEPINGITCLEAN,1,[redacted],[redacted],[redacted],HOMESTEAD,FL,33032,8512,[redacted],7820200,,Y,A,A,Owner,1 to 4,Lawn services,Less than $500000
+82,DALLAS BAPTIST ASSOCIATION,99,[redacted],[redacted],[redacted],DALLAS,TX,75228,2741,[redacted],86610103,www.dba.net,Y,A,A,Other,1 to 4,Baptist Church,Less than $500000
+83,EXITWEST,11,[redacted],[redacted],[redacted],GRAPEVINE,TX,76051,7909,[redacted],73899999,,Y,A,A,Principal,1 to 4,Business Services nec,Less than $500000
+84,PREMIUM AUTO TX,11,[redacted],[redacted],[redacted],HUMBLE,TX,77338,6232,[redacted],75380000,,Y,A,A,Principal,1 to 4,General Automotive Repair Shops,Less than $500000
+85,D RAY TRUCKING LLC,1,[redacted],[redacted],[redacted],SPENCER,IN,47460,6320,[redacted],42120000,,Y,A,A,Owner,1 to 4,Local Trucking Without Storage,Less than $500000
+86,HOFFMAN REMODELING LLC,99,[redacted],[redacted],[redacted],LANCASTER,PA,17603,9304,[redacted],15210101,,Y,A,A,Other,1 to 4,General remodeling single-family houses,Less than $500000
+87,RECIPROCITY TRUCKING INC,3,[redacted],[redacted],[redacted],RALEIGH,NC,27610,5846,[redacted],42120000,,Y,A,A,President,1 to 4,Local Trucking Without Storage,Less than $500000
+88,J A CONSTRUCTION,1,[redacted],[redacted],[redacted],SAN DIEGO,CA,92102,2603,[redacted],15210000,,Y,A,A,Owner,1 to 4,Single-family Housing Construction,Less than $500000
+89,ACE MENTOR PROGRAM OF AMERICA,30,[redacted],[redacted],[redacted],READING,MA,1867,3831,[redacted],82990202,www.acementor.org,Y,A,A,Treasurer,1 to 4,Tutoring school,Less than $500000
+90,KAISER VIDEO,11,[redacted],[redacted],[redacted],HILLSIDE,IL,60162,2142,[redacted],78419902,,Y,A,A,Principal,1 to 4,Video disk/tape rental to the general public,Less than $500000
+91,SIRHAMP LLC,99,[redacted],[redacted],[redacted],RIVERVIEW,FL,33578,8650,[redacted],87480000,,Y,A,A,Other,1 to 4,Business Consulting Nec,Less than $500000
+92,AESTHETIC LAWNCARE LLC,11,[redacted],[redacted],[redacted],LONGWOOD,FL,32750,4314,[redacted],7820203,,Y,A,A,Principal,1 to 4,Lawn care services,Less than $500000
+93,DIABETES TECHNOLOGY CONS,99,[redacted],[redacted],[redacted],ARLINGTON,VA,22202,5041,[redacted],80990100,www.diabetes.org,Y,A,A,Other,1 to 4,Blood related health services,Less than $500000
+94,MILFORD CONTRACTING LLC,99,[redacted],[redacted],[redacted],GRAND BLANC,MI,48439,6321,[redacted],17990000,www.milfordcontracting.com,Y,A,A,Other,1 to 4,Special Trade Contractors Nec,Less than $500000
+95,DOMOSTYLE,1,[redacted],[redacted],[redacted],PEEKSKILL,NY,10566,2028,[redacted],59999922,,Y,A,A,Owner,1 to 4,Sales barn,Less than $500000
+96,KV CONTRACTORS CORPORATION,99,[redacted],[redacted],[redacted],ASBURY PARK,NJ,7712,7345,[redacted],17990105,,Y,A,A,Other,1 to 4,Swimming pool construction,Less than $500000
+97,WOLFPACK SECURITY LLC,99,[redacted],[redacted],[redacted],LAFAYETTE HILL,PA,19444,2102,[redacted],87420206,,Y,A,A,Other,1 to 4,Training and development consultant,Less than $500000
+98,KLB3 INVESTMENTS INC,1,[redacted],[redacted],[redacted],COVINGTON,KY,41016,1712,[redacted],67990000,,Y,A,A,Owner,1 to 4,Investors Nec,Less than $500000
+99,CORALLINES PLAYTIME,11,[redacted],[redacted],[redacted],SAN LEANDRO,CA,94578,1818,[redacted],72990502,www.knockout.website,Y,A,A,Principal,1 to 4,Party planning service,Less than $500000
+100,INVENTORACTIVE CORPORATION,11,[redacted],[redacted],[redacted],ORLANDO,FL,32828,8627,[redacted],73899965,,Y,A,A,Principal,1 to 4,Inventory stocking service,Less than $500000

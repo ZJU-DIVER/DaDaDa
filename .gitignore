@@ -1,0 +1,5 @@
+.idea/
+DaDaDa/experiment/classification/best_model/*
+DaDaDa/experiment/pricing/embedding/*.csv
+DaDaDa/experiment/pricing/price/saved_models_12/*
+DaDaDa/experiment/pricing/price/saved_models_24/*

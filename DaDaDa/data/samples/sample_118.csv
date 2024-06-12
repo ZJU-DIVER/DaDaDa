@@ -1,0 +1,11 @@
+#,FIRST_NAME,LAST_NAME,ADDRESS1,ADDRESS2,CITY,STATE,ZIP5,ZIP4,EMAIL,PHONE,AGE,GENDER,Likelyhood to ask doctor about advertised meds,Likelyhood to look for medical info over the web,Likelyhood to prefer Brand Name Medicines,Likelyhood to buy Prescriptions through the Mail
+1,[redacted],[redacted],[redacted],[redacted],PINE BLUFF,AR,71601,2425,[redacted],[redacted],[redacted],[redacted],1,9,7,8
+2,[redacted],[redacted],[redacted],[redacted],PINE BLUFF,AR,71601,2506,[redacted],[redacted],[redacted],[redacted],1,10,7,3
+3,[redacted],[redacted],[redacted],[redacted],PINE BLUFF,AR,71601,2506,[redacted],[redacted],[redacted],[redacted],1,9,6,7
+4,[redacted],[redacted],[redacted],[redacted],PINE BLUFF,AR,71601,2618,[redacted],[redacted],[redacted],[redacted],1,9,3,4
+5,[redacted],[redacted],[redacted],[redacted],PINE BLUFF,AR,71601,2636,[redacted],[redacted],[redacted],[redacted],1,9,8,3
+6,[redacted],[redacted],[redacted],[redacted],PINE BLUFF,AR,71601,2645,[redacted],[redacted],[redacted],[redacted],1,8,4,4
+7,[redacted],[redacted],[redacted],[redacted],PINE BLUFF,AR,71601,2716,[redacted],[redacted],[redacted],[redacted],1,6,10,1
+8,[redacted],[redacted],[redacted],[redacted],PINE BLUFF,AR,71601,2732,[redacted],[redacted],[redacted],[redacted],1,9,3,4
+9,[redacted],[redacted],[redacted],[redacted],PINE BLUFF,AR,71601,2773,[redacted],[redacted],[redacted],[redacted],1,9,7,2
+10,[redacted],[redacted],[redacted],[redacted],PINE BLUFF,AR,71601,2785,[redacted],[redacted],[redacted],[redacted],1,9,6,1
