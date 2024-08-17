@@ -1,0 +1,244 @@
+{
+    "hits": [
+        {
+            "_index": "data_market",
+            "_type": "_doc",
+            "_id": "xAZYzo8BFvdH5YamAzaX",
+            "_score": 35.66581,
+            "_source": {
+                "geo_coverage": "Japan",
+                "title": "Busienss Data Japan/ 5.7 Million Companies in Japan ( Sample)",
+                "desc": "##Techsalerator Japan Product Overview List of all commercially and legally active businesses in Japan\nUse Cases\nDirect Marketing, Business intelligence, Sector analyzis\nDescription Value\nUpdate Frequency monthly\nData Source(s) Techsalerator\nOriginal Publisher of data Techsalerator\nData Creation Date 2020\nGeographic coverage Japan\nIs historical data “point-in-time” YES\nKey Words Companies in Japan, Japan businesses\nNumber of companies/brands covered 22M\nKey Data Points\nKey data points include:\nPricing Information\nThis is a free sample ($0,00). For additional pricing on list purchase or yearly license cost for our Japan Business database , contact us at info@techsalerator.com\nNeed Help?\nIf you have questions about our products, contact us using the support information below. info@techsalerator.com\nAbout Techsalerator\nWe are a global B2B and B2C data company based out of South Florida.",
+                "pricing_type": "free",
+                "currency": "USD",
+                "category": "Retail, Location & Marketing Data",
+                "provider": "Techsalerator",
+                "freq": [
+                    "no-update"
+                ],
+                "url": "https://aws.amazon.com/marketplace/pp/prodview-3cenes64puwrc?sr=0-220&ref_=beagle&applicationId=AWSMPContessa",
+                "platform": "AWS Data Exchange",
+                "price": "0.0",
+                "dimension": "0.0",
+                "size": "0.0",
+                "volume": "0.0"
+            }
+        },
+        {
+            "_index": "data_market",
+            "_type": "_doc",
+            "_id": "LAZYzo8BFvdH5YamBkyC",
+            "_score": 33.512478,
+            "_source": {
+                "geo_coverage": "Japan",
+                "title": "Food Establishments Data Set in Japan",
+                "desc": "Change the future with people and technology ※本リスティングはサンプルデータの提供です。全量データ販売をご希望の方は、下部に案内のある連絡先までお問い合わせください。<p><br/></p>90万件以上の日本全国の飲食店の情報です。<br/>毎週木曜正午までにデータが更新されます。行政から毎月データ取得・整備をしているため、インターネット上に掲載されていない日本全国の飲食店のデータも網羅しています。<p><br/></p>【主な掲載データ】<br/>UUID：店舗IDSTORE_PHONE_NUMBER：店舗電話番号STORE_PREF_NAME：店舗都道府県STORE_CITY_NAME：店舗市町村STORE_ZIPCODE：店舗郵便番号STORE_ADDRESS：店舗住所STORE_BUILDING_NAME：店舗ビル名STORE_LAT：緯度STORE_LON：経度GENRE_MAJOR_NAME：ジャンル大分類GENRE_MEDIUM_NAME：ジャンル中分類GENRE_SUB_NAME：ジャンル小分類SEATS：店舗座席数STORE_URL：店舗URLSTORE_FACEBOOK：店舗FacebookSTORE_X：店舗XSTORE_INSTAGRAM：店舗instagramSTORE_OTHER_SITE：店舗_他siteOPEN_DATE：開業推定日<br/>（※開業推定日については、2021年以前は行政が持つ「許可の最新の更新日」の可能性があります。）CLOSED_FLAG：閉店CLOSED_DATE：閉店推定日CORPORATE_NUMBER：運営法人番号CORPORATE_NAME：運営法人名CORPORATE_ZIPCODE：運営法人郵便番号CORPORATE_ADDRESS：運営法人住所CORPORATE_PHONE_NUMBER：運営法人電話番号CORPORATE_PRESIDENT_NAME：運営法人代表者CORPORATE_WEBSITE_URL：運営法人URLCORPORATE_EMPLOYEES_NUMBER：運営法人従業員数（整備前）CORPORATE_EMPLOYEES_INT：運営法人従業員数（数値化）CORPORATE_CAPITAL：運営法人資本金（整備前）CORPORATE_CAPITAL_INT：運営法人資本金（数値化）CORPORATE_ESTABLISHMENT：運営法人設立日（整備前）CORPORATE_ESTABLISHMENT_DATE：運営法人設立日（数値化）CORPORATE_SALES：運営法人従業員数（整備前）CORPORATE_SALES_INT：運営法人従業員数（数値化）UPDATE_DATE：データ取得日<br/>株式会社Reviewが収集し同社サービス「macci」にて顧客に活用されているデータを、株式会社truestarがSnowflake Marketplaceで販売しています。Review社HP：https://re-view.jp/<br/>macci専用HP：https://macci.re-view.jp/<p><br/></p>ネット検索だけでは得られない、人×ITの力を駆使して集めた貴重な情報です！<p><br/></p>全量データ販売問い合わせ先：prepper@truestar.co.jp<p><br/></p>※This listing is a provision of sample data. If you wish to purchase the full data, please contact the address indicated at the bottom.”Information on over 900,000 restaurants across Japan.<br/>Updated by noon every Thursday. (Regions outside of AWS Tokyo may experience delays of up to one day.)We obtain data from administrative sources every month, ensuring coverage of facilities across Japan that may not be listed on the internet.We also offer information collected on-site by individuals, which cannot be gathered through the internet.Main data included:UUIDSTORE_PHONE_NUMBERSTORE_PREF_NAMESTORE_CITY_NAMESTORE_ZIPCODESTORE_ADDRESSSTORE_BUILDING_NAMESTORE_LATSTORE_LONGENRE_MAJOR_NAMEGENRE_MEDIUM_NAMEGENRE_SUB_NAMESEATSSTORE_URLSTORE_FACEBOOKSTORE_TWITTERSTORE_INSTAGRAMSTORE_OTHER_SITEOPEN_DATE<br/>（※Regarding the opening date, before 2021, it may be the \"latest renewal date of the permit\" held by the government.）CLOSED_FLAGCLOSED_DATECORPORATE_NUMBERCORPORATE_NAMECORPORATE_ZIPCODECORPORATE_ADDRESSCORPORATE_PHONE_NUMBERCORPORATE_PRESIDENT_NAMECORPORATE_WEBSITE_URLCORPORATE_EMPLOYEES_NUMBERCORPORATE_EMPLOYEES_INTCORPORATE_CAPITALCORPORATE_CAPITAL_INTCORPORATE_ESTABLISHMENTCORPORATE_ESTABLISHMENT_DATECORPORATE_SALESCORPORATE_SALES_INTUPDATE_DATENote: The data collected by Review Corporation is utilized by customers through the company’s service ‘macci’, and is sold on the Snowflake Marketplace by Truestar Corporation.- Review Corporation website: https://re-view.jp/\n- macci website: https://macci.re-view.jp/This is valuable information gathered through the power of people and IT, which cannot be obtained by internet searches alone!Contact for full data sales: prepper@truestar.co.jp",
+                "pricing_type": "free",
+                "currency": "USD",
+                "category": "Retail, Location & Marketing Data",
+                "provider": "truestar inc.",
+                "freq": [
+                    "weekly"
+                ],
+                "url": "https://app.snowflake.com/marketplace/listing/GZT2ZFPTF9I",
+                "platform": "Snowflake",
+                "price": "0.0",
+                "dimension": "0.0",
+                "size": "0.0",
+                "volume": "0.0"
+            }
+        },
+        {
+            "_index": "data_market",
+            "_type": "_doc",
+            "_id": "4AZYzo8BFvdH5YamBD3Q",
+            "_score": 31.843435,
+            "_source": {
+                "geo_coverage": "Japan",
+                "title": "B2B Advertising Data For Companies In Japan",
+                "desc": "Get 17,000 company records to advertise your solutions to 1.3 million earning and spending professionals.\nPower up your company with data-driven decisions with this B2B data for companies in Japan.\nEnrich your existing database, form new B2B partnerships and discover upcoming startups to invest in.\nUSE CASES:\nI. Advertising and lead generation\nWith only few clicks, you can use this dataset to place ads in front of millions of top professionals with the purchasing power to make their own spending decisions. Sales and marketing teams can deploy this dataset to generate and qualify leads to find the right buyers they need towards increasing their business revenue.\nII. B2B partnerships\nOur B2B database can be applied towards forming new partnerships and alliances within the same industry, thereby opening up new business opportunities. In a fast changing world that is now globally intertwined; this dataset is an easy way to connect with others in the same sector with the common goals of increased brand awareness and corporate sales revenue.\nIII. Data enrichment\nBuild the best profile of a client or company with this dataset as the first-party source, by adding more data volume and value with other relevant information. To enrich and enhance your existing database; simply extract, map and merge the original dataset with additional data from second and third-party sources to get a bigger, better, fuller picture.\nIV. Investment intelligence\nHedge funds, venture capital firms and investors use firmographic data to screen companies and businesses regularly. The goal is to find the ones showing promising signs of early growth and profitability for investment. Aside pre-investment analysis, post-investment assessment also uses firmographic data of other companies to help provide valuable insights into competing companies.\nWHO CAN BUY THIS DATA SET:\nMarketing Managers: These individuals are often responsible for overseeing the marketing strategies and campaigns of a company. They seek advertising data to target specific audiences, measure campaign effectiveness, and optimize marketing spend.\nSales Managers: Sales leaders are interested in advertising data that can help generate leads, improve lead quality, and support sales outreach efforts. They look for data that identifies potential customers and provides insights into their behavior and preferences.\nBusiness Owners/CEOs: Business owners and CEOs may be involved in the decision-making process when it comes to investing in advertising data. They are interested in data that can drive revenue growth, improve ROI, and support overall business objectives.\nDigital Marketing Agencies: Agencies that specialize in digital marketing often purchase advertising data on behalf of their clients. They look for data that enables them to target specific industries, demographics, or geographic regions and deliver measurable results to their clients.\nData Analysts/Researchers: Data analysts and researchers within organizations may purchase advertising data to conduct market research, competitive analysis, or performance benchmarking. They seek data that is accurate, comprehensive, and can be analyzed to extract valuable insights.\nProduct Managers: Product managers may use advertising data to inform product development decisions, identify market trends, or understand customer preferences. They look for data that helps them stay ahead of the competition and meet the evolving needs of their target audience.\nDemand Generation Specialists: Professionals responsible for demand generation seek advertising data that can help them identify and engage potential customers throughout the buyer's journey. They look for data that supports lead nurturing, lead scoring, and personalized marketing campaigns.\nContent Marketers: Content marketers rely on advertising data to understand audience interests, preferences, and behavior. They look for data that helps them create targeted content, optimize content distribution channels, and measure content performance.",
+                "pricing_type": "subscription",
+                "currency": "USD",
+                "category": "Retail, Location & Marketing Data",
+                "provider": "TRADExperts",
+                "freq": [
+                    "no-update"
+                ],
+                "url": "https://aws.amazon.com/marketplace/pp/prodview-hhz4vcxo7xb5w?sr=0-517&ref_=beagle&applicationId=AWSMPContessa",
+                "platform": "AWS Data Exchange",
+                "price": "1000.0",
+                "dimension": "0.0",
+                "size": "0.0",
+                "volume": "0.0"
+            }
+        },
+        {
+            "_index": "data_market",
+            "_type": "_doc",
+            "_id": "aAZYzo8BFvdH5YamCWV5",
+            "_score": 31.843435,
+            "_source": {
+                "geo_coverage": "Japan",
+                "title": "Company Data of 5,1M companies in Japan",
+                "desc": "BoldData provides a high quality customized list with all 5,167,867 addresses of companies in Japan. Or buy our worldwide database with 300 million companies in bulk! With over 5 million businesses, all held in-house, BoldData has the largest supply of Japanese data. We can select your perfect target based on numerous interesting selections: from 3,000 industries to region, turnover, sector, contact person and the number of employees.Other questions or are you looking for another city or country? Our data experts are specialized in supervising international campaigns. We have specific direct marketing knowledge per country and have highly accurate data of 300 million companies in 150+ countries. Contact us for free tailor-made advice and an independent quote.",
+                "pricing_type": "subscription",
+                "currency": "EUR",
+                "category": "Retail, Location & Marketing Data",
+                "provider": "BoldData",
+                "freq": [
+                    "on-demand"
+                ],
+                "url": "https://datarade.ai/data-products/list-of-5-1m-companies-in-japan-bolddata",
+                "platform": "Datarade",
+                "price": "7500.0",
+                "dimension": "0.0",
+                "size": "0.0",
+                "volume": "5170000.0"
+            }
+        },
+        {
+            "_index": "data_market",
+            "_type": "_doc",
+            "_id": "XgZYzo8BFvdH5YamCF5u",
+            "_score": 31.813145,
+            "_source": {
+                "geo_coverage": "Japan",
+                "title": "Starbucks Store locations in Japan",
+                "desc": "Short Description Lorem ipsum dolor sit amet. Ut reprehenderit laborum et voluptas dignissimos quo quam enim est deleniti nisi aut rerum consectetur non aspernatur consequuntur. Et dolorem labore est velit culpa rem enim exercitationem et omnis architecto. In-depth Description\nLorem ipsum dolor sit amet. Ut reprehenderit laborum et voluptas dignissimos quo quam enim est deleniti nisi aut rerum consectetur non aspernatur consequuntur. Et dolorem labore est velit culpa rem enim exercitationem et omnis architecto.Lorem ipsum dolor sit amet. Ut reprehenderit laborum et voluptas dignissimos quo quam enim est deleniti nisi aut rerum consectetur non aspernatur consequuntur. Et dolorem labore est velit culpa rem enim exercitationem et omnis architecto.",
+                "pricing_type": "negotiation",
+                "currency": "USD",
+                "category": "Retail, Location & Marketing Data",
+                "provider": "Asia Research Institute",
+                "freq": [
+                    "weekly"
+                ],
+                "url": "https://datarade.ai/data-products/starbucks-store-locations-in-japan-asia-research-institute",
+                "platform": "Datarade",
+                "price": "0.0",
+                "dimension": "0.0",
+                "size": "0.0",
+                "volume": "100000.0"
+            }
+        },
+        {
+            "_index": "data_market",
+            "_type": "_doc",
+            "_id": "5gZYzo8BFvdH5YamAzja",
+            "_score": 30.33276,
+            "_source": {
+                "geo_coverage": "Japan",
+                "title": "Claims data for COVID-19 patients in Japan",
+                "desc": "At JMDC, we are addressing issues such as \"increasing medical expenses (2025 problem),\" \"regional disparities in medical care,\" \"increasing lifestyle-related diseases,\" and \"labor shortages\" that have been raised as social issues in the medical field. We will actively invest in human resources and technology and take on the challenge of developing new initiatives and services that utilize medical Big Data in order to achieve healthy lifestyles for individuals and a sustainable national healthcare system as a result.\nThe overview of the databases are as follows.\nPayer DB (Jan 2005the latest)\nconsists of claims, health checkup results and enrollment ledger from 250+ payers. It is Population-based, longitudinal and covers 8% of Japanese citizens.\nHospital DB (Apr 2014the latest).\nconsists of claims, discharge summary from 250+ hospitals. Rich information for inpatients is available and the elderlies age over 75 accounts for a large part.",
+                "pricing_type": "free",
+                "currency": "USD",
+                "category": "Healthcare & Life Sciences Data",
+                "provider": "JMDC Inc.",
+                "freq": [
+                    "no-update"
+                ],
+                "url": "https://aws.amazon.com/marketplace/pp/prodview-svrcpsjoz2w2m?sr=0-228&ref_=beagle&applicationId=AWSMPContessa",
+                "platform": "AWS Data Exchange",
+                "price": "0.0",
+                "dimension": "0.0",
+                "size": "0.0",
+                "volume": "0.0"
+            }
+        },
+        {
+            "_index": "data_market",
+            "_type": "_doc",
+            "_id": "fAZYzo8BFvdH5YamAzRG",
+            "_score": 28.910713,
+            "_source": {
+                "geo_coverage": "Japan",
+                "title": "JIJI PRESS corporate news article",
+                "desc": "Overview\nThis data is an excerpt of only corporate news from the news distributed by Jiji Press a leading Japanese news agency that provides a wide range of news, data, and other information to readers in Japan and abroad. These dataset make for any natural language processing (NLP) algorithms or machine learning.\nBasic Information\nDescription Value\nContent Type Text\nUsage It can be used for in-house analytical and research purposes only, such as machine learning and text mining.Permission is required for commercial use.\nLanguage Japanese\nData Range One Day Archive Sample, covering Augast 24, 2022\nFormat csv,XML\nEncoding UTF-8\nBasic Metadata\nField Description\nItem name Content ID\nDate Publication date and time(JST,GMT)\nKey1-5 Article attribute\nCategory Article destributed type(New or Update or Delete)\nPriority Article priority type(4)\nTitle Article title\nAbstract Article text\nPricing Information\nThis data can be purchased in bulk for the historical data. Ongoing subscription for latest data feed is also available. Prices vary depending on the length of the contract, the amount of data and the granularity of the data. Please contact us for further information.\nAbout JIJI PRESS\nJiji Press is a leading Japanese news agency that provides a wide range of news, data, and other information to readers in Japan and abroad. Accuracy and speed are vital to our services for delivering up-to-the-minute news to about 140 media organizations, including newspaper publishers, broadcasters, publishing companies, and also to the general public directly via the internet. In addition to media, we also serve a variety of subscribers, including businesses, government ministries and agencies, and other organizations, with specialized news to bring readers financial, securities and commodities market developments, as well as central and local government administration information. Learn More.",
+                "pricing_type": "free",
+                "currency": "USD",
+                "category": "Financial Services Data",
+                "provider": "JIJI PRESS",
+                "freq": [
+                    "no-update"
+                ],
+                "url": "https://aws.amazon.com/marketplace/pp/prodview-5djhj7iidb4nk?sr=0-216&ref_=beagle&applicationId=AWSMPContessa",
+                "platform": "AWS Data Exchange",
+                "price": "0.0",
+                "dimension": "0.0",
+                "size": "0.0",
+                "volume": "0.0"
+            }
+        },
+        {
+            "_index": "data_market",
+            "_type": "_doc",
+            "_id": "ggZYzo8BFvdH5YamAzRG",
+            "_score": 28.910713,
+            "_source": {
+                "geo_coverage": "Japan",
+                "title": "JIJI PRESS breaking news article",
+                "desc": "Overview\nThis data is an excerpt of only breaking news from the news distributed by Jiji Press a leading Japanese news agency that provides a wide range of news, data, and other information to readers in Japan and abroad. These dataset make for any natural language processing (NLP) algorithms or machine learning.\nBasic Information\nDescription Value\nContent Type Text\nUsage It can be used for in-house analytical and research purposes only, such as machine learning and text mining.Permission is required for commercial use.\nLanguage Japanese\nData Range One Day Archive Sample, covering Augast 24, 2022\nFormat csv,XML\nEncoding UTF-8\nBasic Metadata\nField Description\nItem name Content ID\nDate Publication date and time(JST,GMT)\nKey1-5 Article attribute\nCategory Article destributed type(New or Update or Delete)\nPriority Article priority type(1)\nTitle Article title\nAbstract Article text\nPricing Information\nThis data can be purchased in bulk for the historical data. Ongoing subscription for latest data feed is also available. Prices vary depending on the length of the contract, the amount of data and the granularity of the data. Please contact us for further information.\nAbout JIJI PRESS\nJiji Press is a leading Japanese news agency that provides a wide range of news, data, and other information to readers in Japan and abroad. Accuracy and speed are vital to our services for delivering up-to-the-minute news to about 140 media organizations, including newspaper publishers, broadcasters, publishing companies, and also to the general public directly via the internet. In addition to media, we also serve a variety of subscribers, including businesses, government ministries and agencies, and other organizations, with specialized news to bring readers financial, securities and commodities market developments, as well as central and local government administration information. Learn More.",
+                "pricing_type": "free",
+                "currency": "USD",
+                "category": "Financial Services Data",
+                "provider": "JIJI PRESS",
+                "freq": [
+                    "no-update"
+                ],
+                "url": "https://aws.amazon.com/marketplace/pp/prodview-r65m2cqcpduty?sr=0-222&ref_=beagle&applicationId=AWSMPContessa",
+                "platform": "AWS Data Exchange",
+                "price": "0.0",
+                "dimension": "0.0",
+                "size": "0.0",
+                "volume": "0.0"
+            }
+        },
+        {
+            "_index": "data_market",
+            "_type": "_doc",
+            "_id": "iAZYzo8BFvdH5YamAzRG",
+            "_score": 28.910713,
+            "_source": {
+                "geo_coverage": "Japan",
+                "title": "Financial Results Score",
+                "desc": "Overview\nUsing information from the past three years' fiscal results, financial results score is calculated. For each sales, operating income, and net income, the degree of upswing or downswing from the target level is evaluated on a five-point scale based on the following criteria. The average value of these three is used as the final financial results score. Target levels are set as follows.\nFirst, the annual target level is set at the company's most recent forecast for the current fiscal year.\nThe average progress rate over the past three years at the end of the relevant quarter is determined, and the annual target level multiplied by the average progress rate is set as the target level.\nHowever, if the company's forecast for the quarter exists, that value shall be used as the target level. For companies that have not published their company forecasts, we use NA value. The five-point scale of each score based on the following criteria.\nDegree of upswing/downswing (sales) score\nx >= 10% 5\n10% > x >= 5% 4\n5% > x > -5% 3\n-5% >= x > -10% 2\n-10% >= x 1\nDegree of upswing/downswing(operating income / net income) score\nx >= 20% 5\n20% > x >= 10% 4\n10% > x > -10% 3\n-10% >= x > -20% 2\n-20% >= x 1\nBasic Information\nDescription Value\nContent Type Data\nUsage It can be used for in-house analytical and research purposes only, such as machine learning and text mining.Permission is required for commercial use.\nData Range One Day Archive Sample, covering Augast 18, 2022\nFormat csv\nEncoding UTF-8\nPricing Information\nThis data can be purchased in bulk for the historical data. Ongoing subscription for latest data feed is also available. Prices vary depending on the length of the contract, the amount of data and the granularity of the data. Please contact us for further information.\nAbout JIJI PRESS\nJiji Press is a leading Japanese news agency that provides a wide range of news, data, and other information to readers in Japan and abroad. Accuracy and speed are vital to our services for delivering up-to-the-minute news to about 140 media organizations, including newspaper publishers, broadcasters, publishing companies, and also to the general public directly via the internet. In addition to media, we also serve a variety of subscribers, including businesses, government ministries and agencies, and other organizations, with specialized news to bring readers financial, securities and commodities market developments, as well as central and local government administration information. Learn More.",
+                "pricing_type": "free",
+                "currency": "USD",
+                "category": "Financial Services Data",
+                "provider": "JIJI PRESS",
+                "freq": [
+                    "no-update"
+                ],
+                "url": "https://aws.amazon.com/marketplace/pp/prodview-ikjna7tmpeoge?sr=0-228&ref_=beagle&applicationId=AWSMPContessa",
+                "platform": "AWS Data Exchange",
+                "price": "0.0",
+                "dimension": "0.0",
+                "size": "0.0",
+                "volume": "0.0"
+            }
+        },
+        {
+            "_index": "data_market",
+            "_type": "_doc",
+            "_id": "igZYzo8BFvdH5YamAzRG",
+            "_score": 28.910713,
+            "_source": {
+                "geo_coverage": "Japan",
+                "title": "Material Fact Score",
+                "desc": "Overview\nThe Material Fact Score is a score used to determine whether or not the timely disclosure of a material fact actually had a market impact. Market impact is rated on a 5-point scale. The timing of when the market impact is displayed is as follows\nWhen the market is open: The market impact is displayed approximately 10minutes after a material fact is identified.\nIf the market is closed: Around 9:25 a.m. on the next business day The score is not measured if it is not identified as a material fact.\nThe advantages of using the Material Fact Score is to select information to be viewed from among the vast amount of material facts (or timely disclosures related tomaterial facts) and to extract which material facts have impacted the market. On the other hand, the system is not real-time because it takes time to measure market impact and to identify material facts. Please refer to the \"Timely Disclosure Market Score\" if real-time performance is important to you.\nBasic Information\nDescription Value\nContent Type Data\nUsage It can be used for in-house analytical and research purposes only, such as machine learning and text mining.Permission is required for commercial use.\nData Range One Day Archive Sample, covering Augast 18, 2022\nFormat csv\nEncoding UTF-8\nPricing Information\nThis data can be purchased in bulk for the historical data. Ongoing subscription for latest data feed is also available. Prices vary depending on the length of the contract, the amount of data and the granularity of the data. Please contact us for further information.\nAbout JIJI PRESS\nJiji Press is a leading Japanese news agency that provides a wide range of news, data, and other information to readers in Japan and abroad. Accuracy and speed are vital to our services for delivering up-to-the-minute news to about 140 media organizations, including newspaper publishers, broadcasters, publishing companies, and also to the general public directly via the internet. In addition to media, we also serve a variety of subscribers, including businesses, government ministries and agencies, and other organizations, with specialized news to bring readers financial, securities and commodities market developments, as well as central and local government administration information. Learn More.",
+                "pricing_type": "free",
+                "currency": "USD",
+                "category": "Financial Services Data",
+                "provider": "JIJI PRESS",
+                "freq": [
+                    "no-update"
+                ],
+                "url": "https://aws.amazon.com/marketplace/pp/prodview-dlttrtzwv7m2g?sr=0-230&ref_=beagle&applicationId=AWSMPContessa",
+                "platform": "AWS Data Exchange",
+                "price": "0.0",
+                "dimension": "0.0",
+                "size": "0.0",
+                "volume": "0.0"
+            }
+        }
+    ]
+}

@@ -26,7 +26,10 @@ def process_currency_price(row):
 
 def merge_data():
     # get all the CSV file paths
-    file_paths = glob.glob('preprocess_data/*.csv')
+    #
+    file_paths = ['preprocess_data/aws.csv', 'preprocess_data/zhejiang.csv', 'preprocess_data/snowflake.csv', \
+                  'preprocess_data/guangzhou.csv', 'preprocess_data/shanghai.csv', 'preprocess_data/beijing.csv', \
+                  'preprocess_data/datarade.csv', 'preprocess_data/databricks.csv', 'preprocess_data/guiyang.csv']
 
     # read all CSV files into a list of DataFrames
     dfs = [pd.read_csv(file) for file in file_paths]
@@ -41,9 +44,6 @@ def merge_data():
 
     # change the coverage 2 letter code to country name
     combined_df['coverage'] = combined_df['coverage'].apply(get_country_name)
-
-    # store the merged DataFrame to a new CSV file
-    combined_df.to_csv('final_data.csv', index=False)
 
     # rmb 7.075, eur 0.924,  gbp 0.804, jpy 140.511
     # change the currency to USD

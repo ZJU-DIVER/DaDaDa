@@ -21,6 +21,7 @@ The directory is organized as
 .
 ├── croissant_metadata.json
 ├── DaDaDa/
+│   ├── crawler/
 │   ├── data/
 │   │   ├── final_data.csv
 │   │   ├── merge_data.py
@@ -30,7 +31,8 @@ The directory is organized as
 │   │   └── samples/
 │   └── experiment/
 │       ├── classification/
-│       └── pricing/
+│       ├── pricing/
+|       └── retrieval/
 ├── images/
 ├── LICENSE
 └── README.md
@@ -40,6 +42,7 @@ The directory is organized as
 | ----------------------- | ------------------------------------------------------------ |
 | croissant_metadata.json | Croissant metadata record                                    |
 | **final_data.csv**      | The metadata for all **16,147** data products. (**The final comprehensive dataset of DaDaDa**) |
+| crawler/                | Store the web crawler code for extracting data product information from the data marketplaces. |
 | merge_data.py           | Combine all the information of data products from the preprocessed `preprocess_data` directory together. |
 | preprocess_data/        | Store the preprocessed data after integrating the raw data.  |
 | preprocess_raw.py       | Process the data in  `raw_data` into a unified format and store it in the `preprocess_data` folder. |
@@ -47,11 +50,21 @@ The directory is organized as
 | samples/                | Store the data sample of partial data products.              |
 | classification/         | Experimental code related to the classification of data products. |
 | pricing/                | Experimental code related to the pricing of data products.   |
+| retrieval/              | Experimental code related to the retrieval of data products  |
 | images/                 | Store the images used in this repository.                    |
 
+## Data Cleaning
 
+**1. removing duplicated items**
+During data crawling, duplicate data products may arise. To ensure the uniqueness of the dataset, we detect duplicates by comparing the ''title'' and ''provider'' fields. If two data products have identical ''title'' and''provider'', they are considered duplicates, and the redundant entries are removed.
 
-### Composition of DaDaDa
+**2.  rectify errors**
+During the crawling process, non-UTF-8 characters may sometimes be retrieved, leading to errors when reading files containing such characters. We have developed a script to detect and automatically remove non-UTF-8 characters from the data.
+
+**3. imputing missing values**
+While fields such as ''title'', ''provider'', ''description'', and ''url'' are usually obtained automatically through crawling, some critical fields like ''update_frequency'', ''volume'', ''dimension'',"coverage" and ''size'' are often not explicitly provided on many data platmarketplaces and are only mentioned in the ''description''. For example, the description might state "Data is updated monthly, usually on the first Friday of each month.", indicating a monthly update frequency. To address these missing fields, we use manual annotation. Specifically, we read the ''description'' field to extract relevant information to fill in the missing fields. If no relevant information is found, we use default values.
+
+## Composition of DaDaDa
 
 DaDaDa contains metadata for 16,147 data products collected from 9 major data marketplaces. The
 features comprising DaDaDa are detailed below.
@@ -142,9 +155,13 @@ The model_name should be one of the three: "mbert", "xlm-r-base", "xlm-r-large".
 
 DaDaDa makes it possible to create a vertical search engine for data products collected from major open-access data marketplaces around the world. To demonstrate how DaDaDa can streamline the data search process, we use it to create a search engine based on Elasticsearch.
 
+`find how to use it in ` [retrieval](./DaDaDa/experiment/retrieval)
+
 The following image is a screenshot of the data product search engine.
 
 ![A secreenshot of the data product search engine](images/search.png)
+
+
 
 ### data product pricing
 

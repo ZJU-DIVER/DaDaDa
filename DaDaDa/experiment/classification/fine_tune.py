@@ -81,7 +81,7 @@ def fine_tune_model(train_dataset, val_dataset, model_dir, model_name, seed):
         seed = seed
     )
 
-    # 使用Trainer进行训练
+    # training with trainer
     trainer = Trainer(
         model=model,
         args=training_args,
@@ -105,7 +105,7 @@ def compute_metrics(p):
 def evaluate_model(trainer, test_dataset):
     predictions = trainer.predict(test_dataset)
     preds = np.argmax(predictions.predictions, axis=1)
-    print(classification_report(test_dataset['labels'], preds, target_names=label_encoder.classes_))
+    print(classification_report(test_dataset['labels'], preds, target_names=label_encoder.classes_, digits=3))
     print(confusion_matrix(test_dataset['labels'], preds))
     # compute the accuracy
     acc = accuracy_score(test_dataset['labels'], preds)
@@ -218,8 +218,10 @@ if __name__ == '__main__':
         # Evaluate the model on the test dataset
         evaluate_model(trainer, test_dataset)
 
-    # Evaluate the model on the test dataset
-    load_and_evaluate_model(new_model_dir, model_name, test_dataset, label_encoder)
+    elif mode == 'test':
+        best_model_dir = "./best_model/" + model_name
+        # Evaluate the model on the test dataset
+        load_and_evaluate_model(best_model_dir, model_name, test_dataset, label_encoder)
 
 
 

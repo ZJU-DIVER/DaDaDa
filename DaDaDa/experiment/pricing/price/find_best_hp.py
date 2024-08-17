@@ -57,7 +57,7 @@ def find_best_kn(X_train, X_test, y_train, y_test):
         'metric': ['euclidean', 'manhattan', 'minkowski']
     }
 
-    knn = KNeighborsRegressor(random_state=seed)
+    knn = KNeighborsRegressor()
 
     knn_grid_search = GridSearchCV(estimator=knn, param_grid=knn_param_grid, cv=5, n_jobs=-1, verbose=2,
                                    scoring='neg_mean_squared_error')
