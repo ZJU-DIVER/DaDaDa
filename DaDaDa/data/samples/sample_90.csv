@@ -1,0 +1,11 @@
+#,Id,Name,Latitude,Longitude,Address,ZipCode,City,Country,OpeningHours,Phone,Fax,Email,AccessType
+1,FRA1|10000005,ESSO EXPRESS,"48,282547","4,0791603",[redacted],10000,Troyes,FRA,Sunday [00:00 - 00:00];Monday [00:00 - 00:00];Tuesday [00:00 - 00:00];Wednesday [00:00 - 00:00];T...,[redacted],[redacted],[redacted],Public
+2,FRA1|10000006,CASINO,"48,2882","4,07593",[redacted],10000,Troyes,FRA,Sunday [00:00 - 00:00];Monday [00:00 - 00:00];Tuesday [00:00 - 00:00];Wednesday [00:00 - 00:00];T...,[redacted],[redacted],[redacted],Public
+3,FRA1|1000001,CARREFOUR MARKET,"46,20199","5,19927",[redacted],1000,Saint-Denis-Lès-Bourg,FRA,,[redacted],[redacted],[redacted],Public
+4,FRA1|10000018,TOTALENERGIES,"48,294694","4,082775",[redacted],10000,Troyes,FRA,,[redacted],[redacted],[redacted],Public
+5,FRA1|10000019,TOTAL ACCESS,"48,2878","4,0803",[redacted],10000,Troyes,FRA,Sunday [00:00 - 00:00];Monday [00:00 - 00:00];Tuesday [00:00 - 00:00];Wednesday [00:00 - 00:00];T...,[redacted],[redacted],[redacted],Public
+6,FRA1|1000002,CARREFOUR MARKET,"46,2185","5,22804",[redacted],1000,Bourg-En-Bresse,FRA,Sunday [00:00 - 00:00];Monday [00:00 - 00:00];Tuesday [00:00 - 00:00];Wednesday [00:00 - 00:00];T...,[redacted],[redacted],[redacted],Public
+7,FRA1|10000020,TOTAL ACCESS,"48,304807","4,072468",[redacted],10000,Troyes,FRA,,[redacted],[redacted],[redacted],Public
+8,FRA1|1000004,TOTALENERGIES,"46,189","5,24365",[redacted],1000,Bourg-En-Bresse,FRA,Sunday [00:00 - 00:00];Monday [00:00 - 00:00];Tuesday [00:00 - 00:00];Wednesday [00:00 - 00:00];T...,[redacted],[redacted],[redacted],Public
+9,FRA1|1000007,LECLERC,"46,220695","5,241679",[redacted],1000,Bourg-En-Bresse,FRA,Sunday [00:00 - 00:00];Monday [00:00 - 00:00];Tuesday [00:00 - 00:00];Wednesday [00:00 - 00:00];T...,[redacted],[redacted],[redacted],Public
+10,FRA1|1000009,INTERMARCHÉ,"46,1953","5,22755",[redacted],1000,Bourg-En-Bresse,FRA,Sunday [00:00 - 00:00];Monday [00:00 - 00:00];Tuesday [00:00 - 00:00];Wednesday [00:00 - 00:00];T...,[redacted],[redacted],[redacted],Public

@@ -1,0 +1,293 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "cr": "http://mlcommons.org/croissant/",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "examples": {
+      "@id": "cr:examples",
+      "@type": "@json"
+    },
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "sc": "https://schema.org/",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform"
+  },
+  "@type": "sc:Dataset",
+  "name": "DaDaDa",
+  "description": "Data-driven machine learning models have profoundly impacted various industries, highlighting the importance of accessible, diverse, and well-structured data. Rec- ognizing the value of data, an increasing trend of data transactions has emerged, giving rise to many data marketplaces such as AWS Marketplace, Databricks, and Datarade. However, determining the appropriate prices for data products remains a significant challenge. Common pricing methods can be categorized into the cost approach, the income approach, and the sales comparison approach. While the first two are not applicable due to the unique properties of data products, the third approach is limited by the lack of systematic and comparable pricing information for data products in data marketplaces. To address this challenge, we introduce DaDaDa, the first dataset for data product pricing, containing metadata for 16,147 data products from 9 major data marketplaces worldwide. By training a pricing model on the curated metadata, we provide valuable references for pricing new data products. Furthermore, DaDaDa can be utilized for other important tasks in data markets, such as data product classification and retrieval. The dataset and code are available at https://github.com/ZJU-DIVER/DaDaDa.",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "url": "https://github.com/ZJU-DIVER/DaDaDa",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "github-repository",
+      "name": "github-repository",
+      "description": "DaDaDa repository on GitHub.",
+      "contentUrl": "https://github.com/ZJU-DIVER/DaDaDa",
+      "encodingFormat": "git+https",
+      "sha256": "main"
+    },
+    {
+      "@type": "cr:FileSet",
+      "@id": "csv-files",
+      "name": "csv-files",
+      "description": "CSV files are hosted on the GitHub repository.",
+      "containedIn": {
+        "@id": "github-repository"
+      },
+      "encodingFormat": "csv",
+      "includes": "data/final_data.csv"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "csv",
+      "name": "csv",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "csv/title",
+          "name": "title",
+          "description": "The title or short description of the data product.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "title"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/url",
+          "name": "url",
+          "description": "The web address of the detail page of the data product.",
+          "dataType": "sc:URL",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "url"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/platform",
+          "name": "platform",
+          "description": "The name of the data marketplace hosting the data product.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "platform"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/provider",
+          "name": "provider",
+          "description": "The name of the data provider as made available by the data marketplace. There area total of 1,992 data providers, with \"Techsalerator\" being the leading provider, offering 644 dataproducts.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "provider"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/description",
+          "name": "description",
+          "description": "The detailed description of the data product.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "description"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/volume",
+          "name": "volume",
+          "description": "The number of records.",
+          "dataType": "sc:Float",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "volume"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/size",
+          "name": "size",
+          "description": "The data size (in Byte) provided by the data product.",
+          "dataType": "sc:Float",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "size"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/dimension",
+          "name": "dimension",
+          "description": "The number of data features.",
+          "dataType": "sc:Float",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "dimension"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/coverage",
+          "name": "coverage",
+          "description": "The countries covered by the data product.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "coverage"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/update_frequency",
+          "name": "update_frequency",
+          "description": "The frequency between data product updates as announced by the seller, suchas \u201cmonthly\u201d, \u201cdaily\u201d, and \u201creal-time\u201d. Most data products adopt \u201cno-update\u201d and \u201cdaily\u201d.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "update_frequency"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/data_sample",
+          "name": "data_sample",
+          "description": "The filename of the data sample if available. We download and store the datasample of data products in an additional folder.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "data_sample"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/category",
+          "name": "category",
+          "description": "The original category of data product may vary across different data marketplaces,each with its own way of categorization. We align the data categories from other marketplaces withthe AWS Marketplace categories through manual labeling",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "category"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/price_mode",
+          "name": "price_mode",
+          "description": " The pricing mode of the data product. There are five pricing modes: (1) negotiationmode where data buyers need to negotiate the price with data providers, (2) free mode where thedata is provided at no cost, (3) subscription mode where data buyers are charged a recurring fee on amonthly or annual basis, (4) one-off mode where data buyers pay a one-time fee to access the datapermanently, and (5) usage-based mode where data buyers are charged based on the amount of datathey consume, such as the volume of data downloaded or the number of API calls",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "price_mode"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "csv/price",
+          "name": "price",
+          "description": " Using USD ($) as the currency unit. If the pricing mode is free or negotiation, the price isset to 0. If the pricing mode is subscription, the price represents the subscription cost for 12 months;If the pricing mode is usage-based, the price reflects the cost for a single usage.",
+          "dataType": "sc:Float",
+          "source": {
+            "fileSet": {
+              "@id": "csv-files"
+            },
+            "extract": {
+              "column": "price"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

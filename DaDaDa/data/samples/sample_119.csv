@@ -1,0 +1,11 @@
+#,FIRST_NAME,LAST_NAME,ADDRESS1,ADDRESS2,CITY,STATE,ZIP5,ZIP4,EMAIL,PHONE,AGE,GENDER,Likelyhood to ask doctor about advertised meds,Likelyhood to look for medical info over the web,Likelyhood to prefer Brand Name Medicines,Likelyhood to buy Prescriptions through the Mail
+1,[redacted],[redacted],[redacted],[redacted],MOODY,AL,35004,1100,[redacted],[redacted],[redacted],[redacted],7,1,8,4
+2,[redacted],[redacted],[redacted],[redacted],MOODY,AL,35004,1100,[redacted],[redacted],[redacted],[redacted],1,3,8,2
+3,[redacted],[redacted],[redacted],[redacted],MOODY,AL,35004,1402,[redacted],[redacted],[redacted],[redacted],9,5,8,1
+4,[redacted],[redacted],[redacted],[redacted],MOODY,AL,35004,1700,[redacted],[redacted],[redacted],[redacted],6,3,9,1
+5,[redacted],[redacted],[redacted],[redacted],MOODY,AL,35004,1701,[redacted],[redacted],[redacted],[redacted],3,4,9,1
+6,[redacted],[redacted],[redacted],[redacted],MOODY,AL,35004,1701,[redacted],[redacted],[redacted],[redacted],6,2,9,1
+7,[redacted],[redacted],[redacted],[redacted],MOODY,AL,35004,2111,[redacted],[redacted],[redacted],[redacted],6,3,9,1
+8,[redacted],[redacted],[redacted],[redacted],MOODY,AL,35004,2133,[redacted],[redacted],[redacted],[redacted],8,2,9,1
+9,[redacted],[redacted],[redacted],[redacted],MOODY,AL,35004,2134,[redacted],[redacted],[redacted],[redacted],6,3,10,1
+10,[redacted],[redacted],[redacted],[redacted],MOODY,AL,35004,2140,[redacted],[redacted],[redacted],[redacted],2,3,9,1

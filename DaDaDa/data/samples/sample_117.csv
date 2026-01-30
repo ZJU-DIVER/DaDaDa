@@ -1,0 +1,11 @@
+#,FIRST_NAME,LAST_NAME,ADDRESS1,ADDRESS2,CITY,STATE,ZIP5,ZIP4,EMAIL,PHONE,AGE,GENDER,Likelyhood to ask doctor about advertised meds,Likelyhood to look for medical info over the web,Likelyhood to prefer Brand Name Medicines,Likelyhood to buy Prescriptions through the Mail
+1,[redacted],[redacted],[redacted],[redacted],PHOENIX,AZ,85003,0006,[redacted],[redacted],[redacted],[redacted],4,2,10,1
+2,[redacted],[redacted],[redacted],[redacted],PHOENIX,AZ,85003,0008,[redacted],[redacted],[redacted],[redacted],1,1,10,1
+3,[redacted],[redacted],[redacted],[redacted],PHOENIX,AZ,85003,0010,[redacted],[redacted],[redacted],[redacted],3,1,10,1
+4,[redacted],[redacted],[redacted],[redacted],PHOENIX,AZ,85003,1005,[redacted],[redacted],[redacted],[redacted],8,1,9,2
+5,[redacted],[redacted],[redacted],[redacted],PHOENIX,AZ,85003,1005,[redacted],[redacted],[redacted],[redacted],5,9,9,1
+6,[redacted],[redacted],[redacted],[redacted],PHOENIX,AZ,85003,1005,[redacted],[redacted],[redacted],[redacted],10,3,9,1
+7,[redacted],[redacted],[redacted],[redacted],PHOENIX,AZ,85003,1006,[redacted],[redacted],[redacted],[redacted],5,3,9,1
+8,[redacted],[redacted],[redacted],[redacted],PHOENIX,AZ,85003,1015,[redacted],[redacted],[redacted],[redacted],5,9,8,1
+9,[redacted],[redacted],[redacted],[redacted],PHOENIX,AZ,85003,1016,[redacted],[redacted],[redacted],[redacted],10,3,9,1
+10,[redacted],[redacted],[redacted],[redacted],PHOENIX,AZ,85003,1022,[redacted],[redacted],[redacted],[redacted],6,1,9,1

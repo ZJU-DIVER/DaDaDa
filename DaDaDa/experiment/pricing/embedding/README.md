@@ -1,0 +1,1 @@
+The intermediate layer (12th layer) word embedding and the last layer (24 layer) word embedding can be downloaded from [here](https://drive.google.com/file/d/1d4jEQxisXAH_4YfT5iQb6lhC34i8YkDG/view?usp=sharing).

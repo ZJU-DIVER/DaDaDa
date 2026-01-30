@@ -1,0 +1,68 @@
+{
+    "settings": {
+        "index": {
+          "analysis": {
+            "analyzer": {
+              "index_analyzer": {
+                "tokenizer": "standard",
+                "filter": [
+                  "lowercase"
+                ]
+              },
+              "search_analyzer": {
+                "tokenizer": "standard",
+                "filter": [
+                  "lowercase",
+                  "synonym_filter"
+                ]
+              }
+            },
+            "filter": {
+              "synonym_filter": {
+                "type": "synonym_graph",
+                "synonyms_path": "countries_synonyms.txt",
+                "updateable": true
+              }
+            }
+          }
+        }
+      },
+    "mappings": {
+
+            "properties": {
+                "geo_coverage": {
+                    "type": "text",
+                    "analyzer":"standard",
+                    "search_analyzer": "search_analyzer"
+                },
+                "title": {"type": "text"},
+                "desc":{"type": "text"},
+                "pricing_type":{
+                    "type": "keyword"
+                },
+                "platform":{
+                    "type": "keyword"
+                },
+                "currency":{
+                    "type": "keyword"
+                },
+                "category":{
+                    "type": "keyword"
+                },
+                "provider":{
+                    "type": "keyword"
+                },
+                "freq":{
+                    "type": "keyword"
+                },
+                "url":{
+                    "type": "keyword"
+                },
+                "price":{"type":"double"},
+                "dimension":{"type":"integer"},
+                "size":{"type":"double"},
+                "volume":{"type":"long"}
+            }
+        
+    }
+}

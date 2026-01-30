@@ -1,0 +1,101 @@
+#,Continent,Country,Port/Location Name,Port/Location Name Without Diacritics,col,LOCODE,Coordinates
+1,Africa,Algeria,Adrar,Adrar,DZ,DZ  AZR,2752N 00017W
+2,Africa,Algeria,Ain Beida,Ain Beida,DZ,DZ  QBP,3156N 00635E
+3,Africa,Algeria,Ain Benian,Ain Benian,DZ,DZ  A8L,3648N 00255E
+4,Africa,Algeria,'Aďn Benian,'Ain Benian,DZ,DZ  AIN,3648N 00255E
+5,Africa,Algeria,Aďn Defla,Ain Defla,DZ,DZ  ADA,3616N 00158E
+6,Africa,Algeria,Ain Eddis Apt/Bou Saada,Ain Eddis Apt/Bou Saada,DZ,DZ  BUJ,3519N 00421E
+7,Africa,Algeria,'Ain El Hadjar,'Ain El Hadjar,DZ,DZ  QEH,3446N 00090E
+8,Africa,Algeria,Ain M'Lila,Ain M'Lila,DZ,DZ  QIM,3602N 00634E
+9,Africa,Algeria,Ain Taya,Ain Taya,DZ,DZ  ATY,3647N 00317E
+10,Africa,Algeria,Ain Temouchent,Ain Temouchent,DZ,DZ  TCT,3517N 00108W
+11,Africa,Algeria,Ain Touta,Ain Touta,DZ,DZ  ATT,3522N 00553E
+12,Africa,Algeria,Aďn Zaouia,Ain Zaouia,DZ,DZ  AZO,3632N 00353E
+13,Africa,Algeria,Alger (Algiers),Alger (Algiers),DZ,DZ  ALG,3645N 00303E
+14,Africa,Algeria,Annaba (ex Bone),Annaba (ex Bone),DZ,DZ  AAE,
+15,Africa,Algeria,Arzew,Arzew,DZ,DZ  AZW,3552N 00019W
+16,Africa,Algeria,Azazga,Azazga,DZ,DZ  ZZA,3645N 00422E
+17,Africa,Algeria,Bab Ezzouar,Bab Ezzouar,DZ,DZ  EZZ,3643N 00311E
+18,Africa,Algeria,Baraki,Baraki,DZ,DZ  BRK,3640N 00305E
+19,Africa,Algeria,Barika,Barika,DZ,DZ  ZZB,3523N 00523E
+20,Africa,Algeria,Batna,Batna,DZ,DZ  BLJ,3533N 00610E
+21,Africa,Algeria,Bechar,Bechar,DZ,DZ  CBH,3137N 00213W
+22,Africa,Algeria,Bejaia (ex Bougie),Bejaia (ex Bougie),DZ,DZ  BJA,
+23,Africa,Algeria,Beni Mered,Beni Mered,DZ,DZ  BMR,3631N 00251E
+24,Africa,Algeria,Benisaf,Benisaf,DZ,DZ  BSF,3517N 00123W
+25,Africa,Algeria,Berriane,Berriane,DZ,DZ  ZBI,3250N 00346E
+26,Africa,Algeria,Bethioua,Bethioua,DZ,DZ  BHA,3548N 00016W
+27,Africa,Algeria,Bethoula,Bethoula,DZ,DZ  BTA,
+28,Africa,Algeria,Bettioua,Bettioua,DZ,DZ  QBT,3548N 00015W
+29,Africa,Algeria,Bir Mourad Rais,Bir Mourad Rais,DZ,DZ  D2H,3644N 00302E
+30,Africa,Algeria,Bir Mourad Raďs,Bir Mourad Rais,DZ,DZ  BIM,3644N 00302E
+31,Africa,Algeria,Birkhadem,Birkhadem,DZ,DZ  G2H,3643N 00303E
+32,Africa,Algeria,Birtouta,Birtouta,DZ,DZ  BIR,3639N 00300E
+33,Africa,Algeria,Biskra,Biskra,DZ,DZ  BSK,3451N 00544E
+34,Africa,Algeria,Blida,Blida,DZ,DZ  BLD,3628N 00249E
+35,Africa,Algeria,Bordj Badj Mokthar,Bordj Badj Mokthar,DZ,DZ  BMW,
+36,Africa,Algeria,Bordj Bou Arreridj,Bordj Bou Arreridj,DZ,DZ  BOR,3604N 00446E
+37,Africa,Algeria,Bordj El Kiffan,Bordj El Kiffan,DZ,DZ  BEK,3644N 00311E
+38,Africa,Algeria,Bordj Menaďel,Bordj Menaiel,DZ,DZ  BOM,3644N 00342E
+39,Africa,Algeria,Bou Kadir,Bou Kadir,DZ,DZ  ZAB,3604N 00107E
+40,Africa,Algeria,Boufarik,Boufarik,DZ,DZ  QFD,3633N 00252E
+41,Africa,Algeria,Bouinan,Bouinan,DZ,DZ  BNN,3631N 00259E
+42,Africa,Algeria,Bouinane,Bouinane,DZ,DZ  BIU,
+43,Africa,Algeria,Bouira,Bouira,DZ,DZ  QBZ,3623N 00354E
+44,Africa,Algeria,Boumerdas,Boumerdas,DZ,DZ  BOU,3646N 00328E
+45,Africa,Algeria,Canastel,Canastel,DZ,DZ  CAN,3545N 00033W
+46,Africa,Algeria,Cheghoum-el-Aid,Cheghoum-el-Aid,DZ,DZ  CEA,3609N 00609E
+47,Africa,Algeria,Cheraga,Cheraga,DZ,DZ  F4U,3646N 00257E
+48,Africa,Algeria,Cherchell,Cherchell,DZ,DZ  CHE,3636N 00212E
+49,Africa,Algeria,Chetouane,Chetouane,DZ,DZ  CTN,3455N 00117W
+50,Africa,Algeria,Chiffa,Chiffa,DZ,DZ  CHF,3627N 00244E
+51,Africa,Algeria,Chlef,Chlef,DZ,DZ  CLF,3609N 00120E
+52,Africa,Algeria,Collo,Collo,DZ,DZ  COL,3701N 00633E
+53,Africa,Algeria,Constantine,Constantine,DZ,DZ  CZL,
+54,Africa,Algeria,Dar el Beďda,Dar el Beida,DZ,DZ  DEB,3642N 00312E
+55,Africa,Algeria,Dellys,Dellys,DZ,DZ  DEL,3655N 00353E
+56,Africa,Algeria,Djanet,Djanet,DZ,DZ  DJG,2433N 00928E
+57,Africa,Algeria,Djelfa,Djelfa,DZ,DZ  QDJ,3440N 00315E
+58,Africa,Algeria,Djen-Djen,Djen-Djen,DZ,DZ  DJE,
+59,Africa,Algeria,Draa el Mizan,Draa el Mizan,DZ,DZ  DEM,3632N 00349E
+60,Africa,Algeria,Draria,Draria,DZ,DZ  DRA,3644N 00300E
+61,Africa,Algeria,Ech Cheliff,Ech Cheliff,DZ,DZ  QAS,3613N 00120E
+62,Africa,Algeria,El Bayadh,El Bayadh,DZ,DZ  EBH,3341N 00100E
+63,Africa,Algeria,El Eulma,El Eulma,DZ,DZ  ZAE,3609N 00541E
+64,Africa,Algeria,El Golea,El Golea,DZ,DZ  ELG,
+65,Africa,Algeria,El Hamiz,El Hamiz,DZ,DZ  ELH,3644N 00314E
+66,Africa,Algeria,El Kala,El Kala,DZ,DZ  QLK,3645N 00826E
+67,Africa,Algeria,El Kerma,El Kerma,DZ,DZ  ORX,3536N 00034W
+68,Africa,Algeria,El Madania,El Madania,DZ,DZ  EMD,3645N 00304E
+69,Africa,Algeria,El Merdja,El Merdja,DZ,DZ  EMR,3600N 00422E
+70,Africa,Algeria,El Milia,El Milia,DZ,DZ  ELM,3622N 00635E
+71,Africa,Algeria,El Mouradia,El Mouradia,DZ,DZ  EMU,3645N 00303E
+72,Africa,Algeria,El Qued,El Qued,DZ,DZ  ELU,3319N 00652E
+73,Africa,Algeria,Es Senia,Es Senia,DZ,DZ  SEN,3539N 00038W
+74,Africa,Algeria,Gara Djebilet,Gara Djebilet,DZ,DZ  GBB,2609N 00721E
+75,Africa,Algeria,Ghardaďa,Ghardaia,DZ,DZ  GHA,3229N 00340E
+76,Africa,Algeria,Ghazaouet,Ghazaouet,DZ,DZ  GHZ,3506N 00151W
+77,Africa,Algeria,Guellal,Guellal,DZ,DZ  GLL,3602N 00520E
+78,Africa,Algeria,Guelma,Guelma,DZ,DZ  QGE,3628N 00726E
+79,Africa,Algeria,Hammedi,Hammedi,DZ,DZ  HAE,3640N 00316E
+80,Africa,Algeria,Hassi Messaoud,Hassi Messaoud,DZ,DZ  HME,3140N 00608E
+81,Africa,Algeria,Hassi R'Mel,Hassi R'Mel,DZ,DZ  RME,3255N 00316E
+82,Africa,Algeria,Hydra,Hydra,DZ,DZ  HDR,3645N 00301E
+83,Africa,Algeria,Illizi,Illizi,DZ,DZ  VVZ,2628N 00828E
+84,Africa,Algeria,In Amenas,In Amenas,DZ,DZ  IAM,2803N 00938E
+85,Africa,Algeria,In Salah,In Salah,DZ,DZ  INZ,2715N 00231E
+86,Africa,Algeria,I-N-Amenas,I-N-Amenas,DZ,DZ  INA,2803N 00933E
+87,Africa,Algeria,I-n-Guezzam,I-n-Guezzam,DZ,DZ  INF,1933N 00546E
+88,Africa,Algeria,Jijel,Jijel,DZ,DZ  GJL,
+89,Africa,Algeria,Jijel (ex Djidjelli),Jijel (ex Djidjelli),DZ,DZ  DJI,
+90,Africa,Algeria,Kenchela,Kenchela,DZ,DZ  QKJ,3527N 00708E
+91,Africa,Algeria,Khemis Miliana,Khemis Miliana,DZ,DZ  KHM,3615N 00212E
+92,Africa,Algeria,Kherrata,Kherrata,DZ,DZ  KHE,3629N 00516E
+93,Africa,Algeria,Kouba,Kouba,DZ,DZ  KOB,3643N 00305E
+94,Africa,Algeria,La Calle,La Calle,DZ,DZ  CLE,
+95,Africa,Algeria,Laghouat,Laghouat,DZ,DZ  LOO,
+96,Africa,Algeria,L'Arbaa Naďt Irathen,L'Arbaa Nait Irathen,DZ,DZ  ANI,3638N 00411E
+97,Africa,Algeria,Maghnia,Maghnia,DZ,DZ  QMG,3451N 00143W
+98,Africa,Algeria,Mansoűra,Mansoura,DZ,DZ  MSR,3451N 00120W
+99,Africa,Algeria,Mascara,Mascara,DZ,DZ  MUW,
+100,Africa,Algeria,Mécheria,Mecheria,DZ,DZ  MZW,3333N 00017W

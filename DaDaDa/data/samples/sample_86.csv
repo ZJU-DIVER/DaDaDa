@@ -1,0 +1,11 @@
+#,Id,Name,Latitude,Longitude,Address,ZipCode,City,Country,OpeningHours,Phone,Fax,Email,AccessType
+1,ITA1|10001,AGIPENI,"40,32013321","15,06090355",[redacted],84076,Torchiara,ITA,,[redacted],[redacted],[redacted],Public
+2,ITA1|10002,AGIPENI,"44,64079666","7,498015404",[redacted],12037,Saluzzo,ITA,,[redacted],[redacted],[redacted],Public
+3,ITA1|10003,AGIPENI,"44,7637558","7,542787552",[redacted],12033,Moretta,ITA,,[redacted],[redacted],[redacted],Public
+4,ITA1|10006,Q8,"44,40882492","8,965713501",[redacted],16143,Genova,ITA,,[redacted],[redacted],[redacted],Public
+5,ITA1|10008,API-IP,"45,5753479","9,354732513",[redacted],20864,Agrate Brianza,ITA,Sunday [07:45 - 12:30];Sunday [14:00 - 19:00];Monday [07:45 - 12:30];Monday [14:00 - 19:00];Tuesd...,[redacted],[redacted],[redacted],Public
+6,ITA1|10010,ESSO,"45,50738525","10,33075047",[redacted],25086,Rezzato,ITA,,[redacted],[redacted],[redacted],Public
+7,ITA1|10016,AGIPENI,"43,66513062","12,40769958",[redacted],61048,Sant'Angelo In Vado,ITA,Sunday [06:30 - 12:45];Sunday [14:15 - 19:29];Monday [06:30 - 12:45];Monday [14:15 - 19:30];Tuesd...,[redacted],[redacted],[redacted],Public
+8,ITA1|10017,API-IP,"41,8372612","12,55122471",[redacted],178,Roma,ITA,Sunday [07:00 - 12:30];Sunday [15:30 - 19:00];Monday [07:00 - 12:30];Monday [15:30 - 19:00];Tuesd...,[redacted],[redacted],[redacted],Public
+9,ITA1|10020,Q8,"45,33278656","9,541357994",[redacted],26900,Lodi,ITA,,[redacted],[redacted],[redacted],Public
+10,ITA1|10021,ESSO,"45,62548447","8,857868195",[redacted],21052,Busto Arsizio,ITA,,[redacted],[redacted],[redacted],Public

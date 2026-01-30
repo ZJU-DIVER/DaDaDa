@@ -1,0 +1,21 @@
+#,Brnd_Name,Gnrc_Name,Tot_Mftr,Mftr_Name,Tot_Spndng_2018,Tot_Dsg_Unts_2018,Tot_Clms_2018,Tot_Benes_2018,Avg_Spnd_Per_Dsg_Unt_Wghtd_2018,Avg_Spnd_Per_Clm_2018,Avg_Spnd_Per_Bene_2018,Outlier_Flag_2018
+1,1st Tier Unifine Pentips,"Pen Needle, Diabetic",1,Overall,"$167,193.78",761658,6538,2341,$0.220,$25.5726,$71.420,0
+2,1st Tier Unifine Pentips,"Pen Needle, Diabetic",1,Owen Mumford Us,"$167,193.78",761658,6538,2341,$0.220,$25.5726,$71.420,0
+3,1st Tier Unifine Pentips Plus,"Pen Needle, Diabetic",1,Overall,"$369,402.85",1813908,14931,5674,$0.204,$24.7407,$65.104,0
+4,1st Tier Unifine Pentips Plus,"Pen Needle, Diabetic",1,Owen Mumford Us,"$369,402.85",1813908,14931,5674,$0.204,$24.7407,$65.104,0
+5,Abacavir,Abacavir Sulfate,7,Overall,"$10,685,287.61",3041773,40513,7359,$4.034,$263.7496,"$1,452.003",0
+6,Abacavir,Abacavir Sulfate,1,"Cipla USA, Inc.","$227,189.15",50997,832,241,$4.455,$273.0639,$942.694,0
+7,Abacavir,Abacavir Sulfate,1,Major Pharmaceu,"$18,653.71",4401,82,21,$4.239,$227.4843,$888.272,0
+8,Abacavir,Abacavir Sulfate,1,Strides Pharma,"$31,864.29",7006,125,60,$4.548,$254.9143,$531.072,0
+9,Abacavir,Abacavir Sulfate,1,Mylan,"$1,468,380.35",329353,5307,1493,$4.458,$276.6875,$983.510,0
+10,Abacavir,Abacavir Sulfate,1,Aurobindo Pharm,"$4,621,104.64",1061307,17139,3336,$4.354,$269.6251,"$1,385.223",0
+11,Abacavir,Abacavir Sulfate,1,Camber Pharmace,"$4,230,093.55",1413429,16765,3360,$3.601,$252.3169,"$1,258.956",0
+12,Abacavir,Abacavir Sulfate,1,Rising Pharm,"$88,001.92",175280,263,62,$0.502,$334.6081,"$1,419.386",0
+13,Abacavir-Lamivudine,Abacavir Sulfate/Lamivudine,5,Overall,"$18,265,777.87",1669835,52728,8681,$10.950,$346.4151,"$2,104.110",1
+14,Abacavir-Lamivudine,Abacavir Sulfate/Lamivudine,1,"Cipla USA, Inc.","$6,073,233.32",552209,17484,3232,$10.998,$347.3595,"$1,879.094",1
+15,Abacavir-Lamivudine,Abacavir Sulfate/Lamivudine,1,Lupin Pharmaceu,"$4,837,959.11",434734,14396,2559,$11.129,$336.0627,"$1,890.566",1
+16,Abacavir-Lamivudine,Abacavir Sulfate/Lamivudine,1,Aurobindo Pharm,"$5,046,603.12",442317,13695,2311,$11.409,$368.4997,"$2,183.731",1
+17,Abacavir-Lamivudine,Abacavir Sulfate/Lamivudine,1,Teva USA,"$2,307,982.32",240575,7153,1851,$9.594,$322.6593,"$1,246.884",1
+18,Abacavir-Lamivudine,Abacavir Sulfate/Lamivudine,1,Burel Pharmaceu,,,,,,,,
+19,Abacavir-Lamivudine-Zidovudine,Abacavir/Lamivudine/Zidovudine,1,Overall,"$6,955,321.12",330735,5298,710,$21.030,"$1,312.8201","$9,796.227",0
+20,Abacavir-Lamivudine-Zidovudine,Abacavir/Lamivudine/Zidovudine,1,Lupin Pharmaceu,"$6,955,321.12",330735,5298,710,$21.030,"$1,312.8201","$9,796.227",0

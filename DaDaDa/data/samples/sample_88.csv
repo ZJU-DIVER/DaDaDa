@@ -1,0 +1,11 @@
+#,Id,Name,Latitude,Longitude,Address,ZipCode,City,Country,OpeningHours,Phone,Fax,Email,AccessType
+1,PRT1|64971,INTERMARCHÉ,"38,38147","-8,514054",[redacted],7580-054,Alcácer Do Sal,PRT,Sunday [08:00 - 20:00];Monday [08:00 - 20:00];Tuesday [08:00 - 20:00];Wednesday [08:00 - 20:00];T...,[redacted],[redacted],[redacted],Public
+2,PRT1|64977,INTERMARCHÉ,"41,356644","-8,19017",[redacted],4610-821,Varzea,PRT,Sunday [08:00 - 21:00];Monday [08:00 - 21:00];Tuesday [08:00 - 21:00];Wednesday [08:00 - 21:00];T...,[redacted],[redacted],[redacted],Public
+3,PRT1|64985,INTERMARCHÉ,"40,513419","-8,487462",[redacted],3770-222,Oliveira Do Bairro,PRT,Sunday [07:00 - 20:00];Monday [07:00 - 20:00];Tuesday [07:00 - 20:00];Wednesday [07:00 - 20:00];T...,[redacted],[redacted],[redacted],Public
+4,PRT1|64991,AGIP,"38,635587","-8,899036",[redacted],2955-009,Pinhal Novo,PRT,,[redacted],[redacted],[redacted],Public
+5,PRT1|64996,GALP,"39,46327","-8,20869",[redacted],2200-300,São João,PRT,Sunday [07:00 - 00:00];Monday [07:00 - 00:00];Tuesday [07:00 - 00:00];Wednesday [07:00 - 00:00];T...,[redacted],[redacted],[redacted],Public
+6,PRT1|64998,GALP,"39,46435","-8,04245",[redacted],2205-104,Alvega,PRT,Sunday [07:00 - 23:00];Monday [07:00 - 23:00];Tuesday [07:00 - 23:00];Wednesday [07:00 - 23:00];T...,[redacted],[redacted],[redacted],Public
+7,PRT1|64999,GALP,"40,61212","-8,46488",[redacted],3744-909,Mourisca Do Vouga,PRT,Sunday [06:00 - 22:00];Monday [06:00 - 22:00];Tuesday [06:00 - 22:00];Wednesday [06:00 - 22:00];T...,[redacted],[redacted],[redacted],Public
+8,PRT1|65000,GALP,"40,61217","-8,46523",[redacted],3744-909,Mourisca Do Vouga,PRT,Sunday [06:00 - 22:00];Monday [06:00 - 22:00];Tuesday [06:00 - 22:00];Wednesday [06:00 - 22:00];T...,[redacted],[redacted],[redacted],Public
+9,PRT1|65001,GALP,"40,75775","-8,48521",[redacted],3850-000,Escusa,PRT,Sunday [00:00 - 00:00];Monday [00:00 - 00:00];Tuesday [00:00 - 00:00];Wednesday [00:00 - 00:00];T...,[redacted],[redacted],[redacted],Public
+10,PRT1|65002,GALP,"40,76133","-8,48414",[redacted],3850-570,Escusa,PRT,Sunday [00:00 - 00:00];Monday [00:00 - 00:00];Tuesday [00:00 - 00:00];Wednesday [00:00 - 00:00];T...,[redacted],[redacted],[redacted],Public

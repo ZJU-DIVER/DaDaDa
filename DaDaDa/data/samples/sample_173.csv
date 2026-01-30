@@ -1,0 +1,51 @@
+#,ZONEID,ZONENAME,CATEGORY,COUNTRY,CITY,NUMBER_SHOPS,NUMBER_VISITORS,GLA,GLOBAL_AREA,ADDRESS,ESTABLIS_Y,OWNER,MANAGER,OWNER_2,OWNER_3,WEBSITE,X,Y
+1,US 02055 001 00,Eastridge Mall,Shopping Mall,United States of America,Casper,52,"0,09 million",,E,[redacted],,,,,,,-106.265761,42.845732
+2,US 01591 001 00,Park City Center,Shopping Mall,United States of America,Lancaster,152,"0,44 million",H,,[redacted],1971,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,https://www.parkcitycenter.com/,-76.3392,40.068179
+3,US 02619 001 00,West Ridge Mall,Shopping Mall,United States of America,Topeka,100,"0,44 millions",G,,[redacted],1988,,The Woodmont Company,,,,-95.765451,39.032773
+4,US 01724 003 00,Fallbrook Center,Shopping Mall,United States of America,West Hills,31,"0,47 million",,F,[redacted],,,,,,,-118.625563,34.18884
+5,US 01423 002 00,Oakwood Center,Shopping Mall,United States of America,Gretna,66,"0,48 million",G,,[redacted],1966,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,www.oakwoodcenter.com,-90.03899,29.922129
+6,US 02840 001 00,Visalia Mall,Shopping Mall,United States of America,Visalia,71,"0,49 million",E,E,[redacted],1964,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,visaliamall.com,-119.315596,36.311159
+7,US 02044 001 02,Colony Square Mall,Shopping Mall,United States of America,Zanesville,70,"0,5 million",F,,[redacted],1981,"Time Equities, Inc.",Urban Retail Properties,,,colonysquaremall.com,-82.026814,39.987514
+8,US 02432 001 00,Augusta Mall,Shopping Mall,United States of America,Augusta,131,"0,5 million",H,,[redacted],,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,,-82.078735,33.463442
+9,US 01211 002 00,West Oaks Mall,Shopping Mall,United States of America,Ocoee,65,"0,52 million",,F,[redacted],,,,,,,-95.648245,29.732511
+10,US 00631 003 00,Deerbrook Mall,Shopping Mall,United States of America,Deerfield,128,"0,59 million",H,H,[redacted],1984,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,shopdeerbrookmall.com,-87.836181,42.149235
+11,US 01790 001 05,Desoto Junction Shopping Center,Shopping Mall,United States of America,Bradenton,,"0,6 million",D,,[redacted],,ISRAM Realty Group,,,,,-82.560994,27.467086
+12,US 01737 001 00,The Shoppes at Fallen Timbers,Shopping Mall,United States of America,Maumee,48,"0,61 million",,E,[redacted],,,,,,,-83.70577,41.547386
+13,US 02196 001 00,Mizner Park,Shopping Mall,United States of America,Boca Raton,48,"0,62 million",E,D,[redacted],1991,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,,-80.085126,26.354972
+14,US 00084 001 00,Ballston Common Mall,Shopping Mall,United States of America,Arlington,99,"0,63 million",,G,[redacted],,,,,,,-77.110519,38.878519
+15,US 00123 003 00,Towson Town Center,Shopping Mall,United States of America,Towson,185,"0,64 million",G,H,[redacted],1959,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,www.towsontowncenter.com,-76.598939,39.403916
+16,US 01271 001 00,The Mall of New Hampshire,Shopping Mall,United States of America,Manchester,110,"0,72 million",F,G,[redacted],1977,Simon Property Group,Simon Property Group,,,,-71.432865,42.954952
+17,US 00712 001 00,Jordan Creek Town Center,Shopping Mall,United States of America,West Des Moines,149,"0,81 million",H,H,[redacted],2004,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,jordancreektowncenter.com,-93.80329,41.566815
+18,US 01306 001 00,The Mall In Columbia,Shopping Mall,United States of America,Columbia,182,"0,82 million",H,H,[redacted],1971,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,themallincolumbia.com,-76.861644,39.215994
+19,US 00754 001 00,Perimeter Mall,Shopping Mall,United States of America,Atlanta,151,"0,98 million",H,H,[redacted],1971,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,www.perimetermall.com,-84.341983,33.923515
+20,US 02566 001 00,Twin Creek Plaza,Shopping Mall,United States of America,Bellevue,,"1,15 millions",,,[redacted],,,,,,http://twincreekvillage.com/twin-creek-plaza/,-95.969184,41.14186
+21,US 01502 001 00,Westlake Center,Shopping Mall,United States of America,Seattle,47,"1,16 million",C,C,[redacted],1988,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,www.westlakecenter.com,-122.33749,47.611926
+22,US 01143 003 02,Wendover Place,Shopping Mall,United States of America,Greensboro,41,"1,3 millions",,E,[redacted],,Brixmor,,,,,-79.905432,36.057426
+23,US 00270 002 00,Merritt Square Mall,Shopping Mall,United States of America,Merritt Island,125,"1,6 millions",G,,[redacted],1970,Namdar Realty Group,,,,,-80.686768,28.354374
+24,US 01922 001 00,Solomon Pond Mall,Shopping Mall,United States of America,Marlborough,111,"1,7 millions",G,,[redacted],1996,Simon Property Group,,,,visitsolomonpond.com,-71.612988,42.356286
+25,US 02441 016 02,Vail Ranch Center,Shopping Mall,United States of America,Temecula,42,"1,7 millions",,D,[redacted],,Brixmor,,,,,-117.102935,33.478393
+26,US 02385 004 02,Sun Ray Shopping Center,Shopping Mall,United States of America,St. Paul,27,"1,7 millions",,E,[redacted],,Brixmor,,,,,-93.009512,44.952038
+27,US 03076 002 03,Williamson Square Shopping Centre,Shopping Mall,United States of America,Franklin,56,"1,7 millions",,E,[redacted],,Brixmor,,,,,-86.836359,35.91806
+28,US 00951 003 02,Parkway Plaza,Shopping Mall,United States of America,Winston-Salem,42,"1,8 millions",,E,[redacted],,Brixmor,,,,,-80.254962,36.066842
+29,US 02514 003 03,Burning Tree Plaza,Shopping Mall,United States of America,Duluth,20,"1,9 millions",D,,[redacted],,Brixmor,,,,,-92.171212,46.808628
+30,US 00631 019 05,Tinley Park Plaza,Shopping Mall,United States of America,Tinley Park,32,"1,9 millions",D,,[redacted],,Brixmor,,,,,-87.79297,41.597911
+31,US 00527 003 00,The Shoppes At The Palazzo,Shopping Mall,United States of America,Las Vegas,72,"1,97 million",,E,[redacted],,,,,,,-115.16846,36.123712
+32,US 01724 015 00,The Shops At Montebello,Shopping Mall,United States of America,Montebello,121,10 millions,F,,[redacted],1985,Pacific Retail,Pacific Retail,,,,-118.083856,34.036077
+33,US 02936 001 00,Dakota Square Mall,Shopping Mall,United States of America,Minot,71,10 millions,F,F,[redacted],1980,CBL Properties,,,,,-101.311484,48.206469
+34,US 02898 010 00,Camarillo Premium Outlets,Shopping Mall,United States of America,Camarillo,160,10 millions,F,,[redacted],1995,Simon Property Group,Simon Property Group,,,,-119.063137,34.215703
+35,US 02042 001 00,Peachtree Mall,Shopping Mall,United States of America,Columbus,92,10 millions,G,,[redacted],,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,www.peachtreemall.com,-84.942542,32.508973
+36,US 02536 001 00,Westfield Plaza Bonita,Shopping Mall,United States of America,National City,193,10 millions,G,G,[redacted],1981,Unibail-Rodamco-Westfield,Unibail-Rodamco-Westfield,,,,-117.065832,32.655815
+37,US 01724 001 00,Westfield Culver City,Shopping Mall,United States of America,Culver City,155,10 millions,G,G,[redacted],1975,Unibail-Rodamco-Westfield,Unibail-Rodamco-Westfield,,,,-118.393033,33.985989
+38,US 00861 002 00,Cielo Vista Mall,Shopping Mall,United States of America,El Paso,127,10 millions,H,,[redacted],1974,Simon Property Group,Simon Property Group,,,,-106.380119,31.776255
+39,US 01442 001 00,Greenwood Park Mall,Shopping Mall,United States of America,Greenwood,150,10 millions,H,,[redacted],1967,Simon Property Group,Simon Property Group,,,,-86.120598,39.632317
+40,US 00846 001 00,Music City Mall,Shopping Mall,United States of America,Odessa,92,10 millions,,F,[redacted],,,,,,,-102.339053,31.894738
+41,US 03032 002 00,Cross County Shopping,Shopping Mall,United States of America,Yonkers,100,11 millions,G,,[redacted],1954,Brooks Shopping Center LLC,Marx Realty,Benenson Capital Partners,Marx Realty,crosscountycenter.com,-73.854414,40.928567
+42,US 00953 013 02,Katy Mills,Shopping Mall,United States of America,Katy,160,11 millions,H,,[redacted],1999,Simon Property Group,Simon Property Group,,,,-95.808893,29.775794
+43,US 02307 001 00,Valley West Mall,Shopping Mall,United States of America,West Des Moines,123,12 millions,G,G,[redacted],1975,Valley West DM,Watson Centers,,,valleywestmall.com,-93.749499,41.597452
+44,US 00832 002 00,The Streets At Southpoint,Shopping Mall,United States of America,Durham,174,12 millions,H,,[redacted],2002,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,streetsatsouthpoint.com,-78.943265,35.904314
+45,US 00833 003 00,Poughkeepsie Galleria,Shopping Mall,United States of America,Poughkeepsie,105,12 millions,H,,[redacted],1987,The Pyramid Companies,The Pyramid Companies,,,poughkeepsiegalleriamall.com,-73.920999,41.625662
+46,US 00631 007 00,Westfield Old Orchard,Shopping Mall,United States of America,Skokie,121,12 millions,H,,[redacted],1956,Unibail-Rodamco-Westfield,Unibail-Rodamco-Westfield,,,,-87.749826,42.057336
+47,US 02430 001 00,Staten Island Mall,Shopping Mall,United States of America,Staten Island,208,12 millions,,H,[redacted],1973,Brookfield Properties Retail Group,Brookfield Properties Retail Group,,,,-74.165352,40.581787
+48,US 00861 007 00,The Outlet Shoppes at El Paso,Shopping Mall,United States of America,El Paso,,12 millions,,,[redacted],,Horizon Group Properties,Horizon Group Properties,CBL Properties,,https://www.theoutletshoppesatelpaso.com/,-106.586261,31.912989
+49,US 00769 001 00,Denver Pavilions,Shopping Mall,United States of America,Denver,41,12 millions,,E,[redacted],,,,,,,-104.991055,39.743366
+50,US 01987 004 00,Westfield Wheaton,Shopping Mall,United States of America,Wheaton,126,"12,5 millions",D,,[redacted],1960,Unibail-Rodamco-Westfield,Unibail-Rodamco-Westfield,,,https://www.westfield.com/wheaton,-77.054487,39.036797
